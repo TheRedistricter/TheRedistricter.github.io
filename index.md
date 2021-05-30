@@ -1,10 +1,8 @@
 
+County-based multi-member Congressional districts
+=================================================
 
-
-
-# County-based multi-member Congressional districts
-
-## Assumptions
+# Assumptions
 
 
 Congressional districts are contiguous, compact, and of equivalent population.
@@ -12,7 +10,7 @@ Congressional districts are contiguous, compact, and of equivalent population.
 County boundaries delimit US Congressional districts.
 
 Congressional districts have one or more members.
-## Approach
+# Approach
 
 
 Exhaustively specify every combination of single and multi-member districts.
