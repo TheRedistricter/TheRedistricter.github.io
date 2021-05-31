@@ -26,115 +26,911 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Blount CountyColbert CountyCullman CountyFayette CountyFranklin CountyLamar CountyLauderdale CountyLawrence CountyLimestone CountyMarion CountyMorgan CountyWalker CountyWinston County|
-|1|1.0|2|Cherokee CountyDeKalb CountyEtowah CountyJackson CountyMadison CountyMarshall County|
-|2|2.0|1|Bibb CountyCalhoun CountyJefferson CountyShelby CountySt. Clair CountyTalladega CountyTuscaloosa County|
-|3|3.0|2|Autauga CountyBaldwin CountyBarbour CountyBullock CountyButler CountyChambers CountyChilton CountyChoctaw CountyClarke CountyClay CountyCleburne CountyCoffee CountyConecuh CountyCoosa CountyCovington CountyCrenshaw CountyDale CountyDallas CountyElmore CountyEscambia CountyGeneva CountyGreene CountyHale CountyHenry CountyHouston CountyLee CountyLowndes CountyMacon CountyMarengo CountyMobile CountyMonroe CountyMontgomery CountyPerry CountyPickens CountyPike CountyRandolph CountyRussell CountySumter CountyTallapoosa CountyWashington CountyWilcox County|
+|0|1.0|2|Blount County
+Colbert County
+Cullman County
+Fayette County
+Franklin County
+Lamar County
+Lauderdale County
+Lawrence County
+Limestone County
+Marion County
+Morgan County
+Walker County
+Winston County|
+|1|1.0|2|Cherokee County
+DeKalb County
+Etowah County
+Jackson County
+Madison County
+Marshall County|
+|2|2.0|1|Bibb County
+Calhoun County
+Jefferson County
+Shelby County
+St. Clair County
+Talladega County
+Tuscaloosa County|
+|3|3.0|2|Autauga County
+Baldwin County
+Barbour County
+Bullock County
+Butler County
+Chambers County
+Chilton County
+Choctaw County
+Clarke County
+Clay County
+Cleburne County
+Coffee County
+Conecuh County
+Coosa County
+Covington County
+Crenshaw County
+Dale County
+Dallas County
+Elmore County
+Escambia County
+Geneva County
+Greene County
+Hale County
+Henry County
+Houston County
+Lee County
+Lowndes County
+Macon County
+Marengo County
+Mobile County
+Monroe County
+Montgomery County
+Perry County
+Pickens County
+Pike County
+Randolph County
+Russell County
+Sumter County
+Tallapoosa County
+Washington County
+Wilcox County|
 
 ## AZ
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|3.0|2|Apache CountyCochise CountyCoconino CountyGreenlee CountyLa Paz CountyMohave CountyNavajo CountyPima CountyPinal CountySanta Cruz CountyYavapai County|
-|1|6.0|2|Gila CountyGraham CountyMaricopa CountyYuma County|
+|0|3.0|2|Apache County
+Cochise County
+Coconino County
+Greenlee County
+La Paz County
+Mohave County
+Navajo County
+Pima County
+Pinal County
+Santa Cruz County
+Yavapai County|
+|1|6.0|2|Gila County
+Graham County
+Maricopa County
+Yuma County|
 
 ## AR
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Craighead CountyCrittenden CountyCross CountyJackson CountyLee CountyLonoke CountyMississippi CountyMonroe CountyPoinsett CountyPrairie CountyPulaski CountySt. Francis CountyWoodruff County|
-|1|1.0|1|Arkansas CountyAshley CountyBradley CountyCalhoun CountyChicot CountyClark CountyCleveland CountyColumbia CountyDallas CountyDesha CountyDrew CountyGarland CountyGrant CountyHempstead CountyHot Spring CountyHoward CountyJefferson CountyLafayette CountyLincoln CountyLittle River CountyMiller CountyMontgomery CountyNevada CountyOuachita CountyPhillips CountyPike CountyPolk CountySaline CountySevier CountyUnion County|
-|2|1.0|2|Benton CountyCrawford CountyFranklin CountyMadison CountySebastian CountyWashington County|
-|3|1.0|1|Baxter CountyBoone CountyCarroll CountyClay CountyCleburne CountyConway CountyFaulkner CountyFulton CountyGreene CountyIndependence CountyIzard CountyJohnson CountyLawrence CountyLogan CountyMarion CountyNewton CountyPerry CountyPope CountyRandolph CountyScott CountySearcy CountySharp CountyStone CountyVan Buren CountyWhite CountyYell County|
+|0|1.0|2|Craighead County
+Crittenden County
+Cross County
+Jackson County
+Lee County
+Lonoke County
+Mississippi County
+Monroe County
+Poinsett County
+Prairie County
+Pulaski County
+St. Francis County
+Woodruff County|
+|1|1.0|1|Arkansas County
+Ashley County
+Bradley County
+Calhoun County
+Chicot County
+Clark County
+Cleveland County
+Columbia County
+Dallas County
+Desha County
+Drew County
+Garland County
+Grant County
+Hempstead County
+Hot Spring County
+Howard County
+Jefferson County
+Lafayette County
+Lincoln County
+Little River County
+Miller County
+Montgomery County
+Nevada County
+Ouachita County
+Phillips County
+Pike County
+Polk County
+Saline County
+Sevier County
+Union County|
+|2|1.0|2|Benton County
+Crawford County
+Franklin County
+Madison County
+Sebastian County
+Washington County|
+|3|1.0|1|Baxter County
+Boone County
+Carroll County
+Clay County
+Cleburne County
+Conway County
+Faulkner County
+Fulton County
+Greene County
+Independence County
+Izard County
+Johnson County
+Lawrence County
+Logan County
+Marion County
+Newton County
+Perry County
+Pope County
+Randolph County
+Scott County
+Searcy County
+Sharp County
+Stone County
+Van Buren County
+White County
+Yell County|
 
 ## CA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|5.0|2|Merced CountyMonterey CountySan Benito CountySan Mateo CountySanta Clara CountySanta Cruz County|
-|1|8.0|1|Butte CountyColusa CountyContra Costa CountyDel Norte CountyGlenn CountyHumboldt CountyLake CountyLassen CountyMarin CountyMendocino CountyModoc CountyNapa CountyPlumas CountySacramento CountySan Francisco CountyShasta CountySiskiyou CountySolano CountySonoma CountySutter CountyTehama CountyTrinity CountyYolo County|
-|2|8.0|2|Alameda CountyAlpine CountyAmador CountyCalaveras CountyEl Dorado CountyFresno CountyInyo CountyKings CountyMadera CountyMariposa CountyMono CountyNevada CountyPlacer CountySan Joaquin CountySan Luis Obispo CountySierra CountyStanislaus CountyTulare CountyTuolumne CountyYuba County|
-|3|8.0|2|Imperial CountyRiverside CountySan Diego County|
-|4|10.0|1|Kern CountyOrange CountySan Bernardino CountySanta Barbara CountyVentura County|
+|0|5.0|2|Merced County
+Monterey County
+San Benito County
+San Mateo County
+Santa Clara County
+Santa Cruz County|
+|1|8.0|1|Butte County
+Colusa County
+Contra Costa County
+Del Norte County
+Glenn County
+Humboldt County
+Lake County
+Lassen County
+Marin County
+Mendocino County
+Modoc County
+Napa County
+Plumas County
+Sacramento County
+San Francisco County
+Shasta County
+Siskiyou County
+Solano County
+Sonoma County
+Sutter County
+Tehama County
+Trinity County
+Yolo County|
+|2|8.0|2|Alameda County
+Alpine County
+Amador County
+Calaveras County
+El Dorado County
+Fresno County
+Inyo County
+Kings County
+Madera County
+Mariposa County
+Mono County
+Nevada County
+Placer County
+San Joaquin County
+San Luis Obispo County
+Sierra County
+Stanislaus County
+Tulare County
+Tuolumne County
+Yuba County|
+|3|8.0|2|Imperial County
+Riverside County
+San Diego County|
+|4|10.0|1|Kern County
+Orange County
+San Bernardino County
+Santa Barbara County
+Ventura County|
 |5|13.0|1|Los Angeles County|
 
 ## CO
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|1|Baca CountyBent CountyCheyenne CountyCostilla CountyCrowley CountyCuster CountyDouglas CountyEl Paso CountyElbert CountyFremont CountyHuerfano CountyKiowa CountyKit Carson CountyLas Animas CountyLogan CountyOtero CountyPhillips CountyProwers CountyPueblo CountySedgwick CountyTeller CountyYuma County|
-|1|2.0|2|Alamosa CountyArchuleta CountyBoulder CountyBroomfield CountyChaffee CountyConejos CountyDelta CountyDolores CountyEagle CountyGarfield CountyGilpin CountyGrand CountyGunnison CountyHinsdale CountyJackson CountyLa Plata CountyLake CountyLarimer CountyMesa CountyMineral CountyMoffat CountyMontezuma CountyMontrose CountyOuray CountyPitkin CountyRio Blanco CountyRio Grande CountyRoutt CountySaguache CountySan Juan CountySan Miguel CountySummit County|
-|2|2.0|2|Adams CountyClear Creek CountyJefferson CountyMorgan CountyPark CountyWeld County|
-|3|2.0|4|Arapahoe CountyDenver CountyLincoln CountyWashington County|
+|0|2.0|1|Baca County
+Bent County
+Cheyenne County
+Costilla County
+Crowley County
+Custer County
+Douglas County
+El Paso County
+Elbert County
+Fremont County
+Huerfano County
+Kiowa County
+Kit Carson County
+Las Animas County
+Logan County
+Otero County
+Phillips County
+Prowers County
+Pueblo County
+Sedgwick County
+Teller County
+Yuma County|
+|1|2.0|2|Alamosa County
+Archuleta County
+Boulder County
+Broomfield County
+Chaffee County
+Conejos County
+Delta County
+Dolores County
+Eagle County
+Garfield County
+Gilpin County
+Grand County
+Gunnison County
+Hinsdale County
+Jackson County
+La Plata County
+Lake County
+Larimer County
+Mesa County
+Mineral County
+Moffat County
+Montezuma County
+Montrose County
+Ouray County
+Pitkin County
+Rio Blanco County
+Rio Grande County
+Routt County
+Saguache County
+San Juan County
+San Miguel County
+Summit County|
+|2|2.0|2|Adams County
+Clear Creek County
+Jefferson County
+Morgan County
+Park County
+Weld County|
+|3|2.0|4|Arapahoe County
+Denver County
+Lincoln County
+Washington County|
 
 ## CT
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|1|Hartford CountyNew London CountyTolland CountyWindham County|
-|1|3.0|0|Fairfield CountyLitchfield CountyMiddlesex CountyNew Haven County|
+|0|2.0|1|Hartford County
+New London County
+Tolland County
+Windham County|
+|1|3.0|0|Fairfield County
+Litchfield County
+Middlesex County
+New Haven County|
 
 ## FL
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Escambia CountyOkaloosa CountySanta Rosa CountyWalton County|
-|1|4.0|2|Brevard CountyOrange CountySeminole CountyVolusia County|
-|2|5.0|0|Alachua CountyBaker CountyBay CountyBradford CountyCalhoun CountyCitrus CountyClay CountyColumbia CountyDixie CountyDuval CountyFlagler CountyFranklin CountyGadsden CountyGilchrist CountyGulf CountyHamilton CountyHernando CountyHolmes CountyJackson CountyJefferson CountyLafayette CountyLeon CountyLevy CountyLiberty CountyMadison CountyMarion CountyNassau CountyPutnam CountySt. Johns CountySumter CountySuwannee CountyTaylor CountyUnion CountyWakulla CountyWashington County|
-|3|6.0|0|DeSoto CountyHardee CountyHillsborough CountyManatee CountyPasco CountyPinellas CountyPolk CountySarasota County|
-|4|6.0|2|Charlotte CountyCollier CountyGlades CountyHendry CountyHighlands CountyIndian River CountyLake CountyLee CountyMartin CountyMonroe CountyOkeechobee CountyOsceola CountyPalm Beach CountySt. Lucie County|
-|5|6.0|1|Broward CountyMiami-Dade County|
+|0|1.0|2|Escambia County
+Okaloosa County
+Santa Rosa County
+Walton County|
+|1|4.0|2|Brevard County
+Orange County
+Seminole County
+Volusia County|
+|2|5.0|0|Alachua County
+Baker County
+Bay County
+Bradford County
+Calhoun County
+Citrus County
+Clay County
+Columbia County
+Dixie County
+Duval County
+Flagler County
+Franklin County
+Gadsden County
+Gilchrist County
+Gulf County
+Hamilton County
+Hernando County
+Holmes County
+Jackson County
+Jefferson County
+Lafayette County
+Leon County
+Levy County
+Liberty County
+Madison County
+Marion County
+Nassau County
+Putnam County
+St. Johns County
+Sumter County
+Suwannee County
+Taylor County
+Union County
+Wakulla County
+Washington County|
+|3|6.0|0|DeSoto County
+Hardee County
+Hillsborough County
+Manatee County
+Pasco County
+Pinellas County
+Polk County
+Sarasota County|
+|4|6.0|2|Charlotte County
+Collier County
+Glades County
+Hendry County
+Highlands County
+Indian River County
+Lake County
+Lee County
+Martin County
+Monroe County
+Okeechobee County
+Osceola County
+Palm Beach County
+St. Lucie County|
+|5|6.0|1|Broward County
+Miami-Dade County|
 
 ## GA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|2|Clayton CountyDeKalb CountyFayette CountyHenry CountyRockdale County|
-|1|2.0|0|Carroll CountyDouglas CountyFulton CountyHaralson CountyPaulding County|
-|2|2.0|0|Bartow CountyCherokee CountyCobb CountyDawson CountyForsyth CountyGilmer CountyGordon CountyPickens County|
-|3|2.0|1|Appling CountyAtkinson CountyBacon CountyBen Hill CountyBerrien CountyBrantley CountyBrooks CountyBryan CountyBulloch CountyBurke CountyCamden CountyCandler CountyCharlton CountyChatham CountyClinch CountyCoffee CountyColquitt CountyCook CountyDodge CountyEchols CountyEffingham CountyEmanuel CountyEvans CountyGlynn CountyIrwin CountyJeff Davis CountyJenkins CountyJohnson CountyLanier CountyLaurens CountyLiberty CountyLong CountyLowndes CountyMcIntosh CountyMontgomery CountyPierce CountyScreven CountyTattnall CountyTelfair CountyThomas CountyTift CountyToombs CountyTreutlen CountyTurner CountyWare CountyWayne CountyWheeler CountyWilcox County|
-|4|2.0|0|Baker CountyBibb CountyBleckley CountyButts CountyCalhoun CountyChattahoochee CountyClay CountyCoweta CountyCrawford CountyCrisp CountyDecatur CountyDooly CountyDougherty CountyEarly CountyGrady CountyHarris CountyHeard CountyHouston CountyLamar CountyLee CountyMacon CountyMarion CountyMeriwether CountyMiller CountyMitchell CountyMuscogee CountyNewton CountyPeach CountyPike CountyPulaski CountyQuitman CountyRandolph CountySchley CountySeminole CountySpalding CountyStewart CountySumter CountyTalbot CountyTaylor CountyTerrell CountyTroup CountyTwiggs CountyUpson CountyWebster CountyWorth County|
-|5|2.0|2|Banks CountyCatoosa CountyChattooga CountyClarke CountyColumbia CountyDade CountyElbert CountyFannin CountyFloyd CountyFranklin CountyHabersham CountyHall CountyHart CountyLincoln CountyLumpkin CountyMadison CountyMurray CountyPolk CountyRabun CountyRichmond CountyStephens CountyTowns CountyUnion CountyWalker CountyWhite CountyWhitfield County|
-|6|2.0|1|Baldwin CountyBarrow CountyGlascock CountyGreene CountyGwinnett CountyHancock CountyJackson CountyJasper CountyJefferson CountyJones CountyMcDuffie CountyMonroe CountyMorgan CountyOconee CountyOglethorpe CountyPutnam CountyTaliaferro CountyWalton CountyWarren CountyWashington CountyWilkes CountyWilkinson County|
+|0|2.0|2|Clayton County
+DeKalb County
+Fayette County
+Henry County
+Rockdale County|
+|1|2.0|0|Carroll County
+Douglas County
+Fulton County
+Haralson County
+Paulding County|
+|2|2.0|0|Bartow County
+Cherokee County
+Cobb County
+Dawson County
+Forsyth County
+Gilmer County
+Gordon County
+Pickens County|
+|3|2.0|1|Appling County
+Atkinson County
+Bacon County
+Ben Hill County
+Berrien County
+Brantley County
+Brooks County
+Bryan County
+Bulloch County
+Burke County
+Camden County
+Candler County
+Charlton County
+Chatham County
+Clinch County
+Coffee County
+Colquitt County
+Cook County
+Dodge County
+Echols County
+Effingham County
+Emanuel County
+Evans County
+Glynn County
+Irwin County
+Jeff Davis County
+Jenkins County
+Johnson County
+Lanier County
+Laurens County
+Liberty County
+Long County
+Lowndes County
+McIntosh County
+Montgomery County
+Pierce County
+Screven County
+Tattnall County
+Telfair County
+Thomas County
+Tift County
+Toombs County
+Treutlen County
+Turner County
+Ware County
+Wayne County
+Wheeler County
+Wilcox County|
+|4|2.0|0|Baker County
+Bibb County
+Bleckley County
+Butts County
+Calhoun County
+Chattahoochee County
+Clay County
+Coweta County
+Crawford County
+Crisp County
+Decatur County
+Dooly County
+Dougherty County
+Early County
+Grady County
+Harris County
+Heard County
+Houston County
+Lamar County
+Lee County
+Macon County
+Marion County
+Meriwether County
+Miller County
+Mitchell County
+Muscogee County
+Newton County
+Peach County
+Pike County
+Pulaski County
+Quitman County
+Randolph County
+Schley County
+Seminole County
+Spalding County
+Stewart County
+Sumter County
+Talbot County
+Taylor County
+Terrell County
+Troup County
+Twiggs County
+Upson County
+Webster County
+Worth County|
+|5|2.0|2|Banks County
+Catoosa County
+Chattooga County
+Clarke County
+Columbia County
+Dade County
+Elbert County
+Fannin County
+Floyd County
+Franklin County
+Habersham County
+Hall County
+Hart County
+Lincoln County
+Lumpkin County
+Madison County
+Murray County
+Polk County
+Rabun County
+Richmond County
+Stephens County
+Towns County
+Union County
+Walker County
+White County
+Whitfield County|
+|6|2.0|1|Baldwin County
+Barrow County
+Glascock County
+Greene County
+Gwinnett County
+Hancock County
+Jackson County
+Jasper County
+Jefferson County
+Jones County
+McDuffie County
+Monroe County
+Morgan County
+Oconee County
+Oglethorpe County
+Putnam County
+Taliaferro County
+Walton County
+Warren County
+Washington County
+Wilkes County
+Wilkinson County|
 
 ## ID
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Adams CountyBannock CountyBear Lake CountyBenewah CountyBingham CountyBlaine CountyBonner CountyBonneville CountyBoundary CountyButte CountyCamas CountyCaribou CountyCassia CountyClark CountyClearwater CountyCuster CountyFranklin CountyFremont CountyGooding CountyIdaho CountyJefferson CountyJerome CountyKootenai CountyLatah CountyLemhi CountyLewis CountyLincoln CountyMadison CountyMinidoka CountyNez Perce CountyOneida CountyPower CountyShoshone CountyTeton CountyValley County|
-|1|1.0|0|Ada CountyBoise CountyCanyon CountyElmore CountyGem CountyOwyhee CountyPayette CountyTwin Falls CountyWashington County|
+|0|1.0|1|Adams County
+Bannock County
+Bear Lake County
+Benewah County
+Bingham County
+Blaine County
+Bonner County
+Bonneville County
+Boundary County
+Butte County
+Camas County
+Caribou County
+Cassia County
+Clark County
+Clearwater County
+Custer County
+Franklin County
+Fremont County
+Gooding County
+Idaho County
+Jefferson County
+Jerome County
+Kootenai County
+Latah County
+Lemhi County
+Lewis County
+Lincoln County
+Madison County
+Minidoka County
+Nez Perce County
+Oneida County
+Power County
+Shoshone County
+Teton County
+Valley County|
+|1|1.0|0|Ada County
+Boise County
+Canyon County
+Elmore County
+Gem County
+Owyhee County
+Payette County
+Twin Falls County
+Washington County|
 
 ## IL
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Alexander CountyCrawford CountyEdwards CountyFranklin CountyGallatin CountyHamilton CountyHardin CountyJackson CountyJefferson CountyJohnson CountyLawrence CountyMassac CountyMonroe CountyPerry CountyPope CountyPulaski CountyRandolph CountyRichland CountySaline CountySt. Clair CountyUnion CountyWabash CountyWashington CountyWayne CountyWhite CountyWilliamson County|
-|1|1.0|2|Adams CountyBrown CountyCalhoun CountyCass CountyFulton CountyGreene CountyHancock CountyHenderson CountyJersey CountyKnox CountyMacoupin CountyMason CountyMcDonough CountyMenard CountyMercer CountyMorgan CountyPeoria CountyPike CountySchuyler CountyScott CountyTazewell CountyWarren County|
-|2|2.0|0|Bond CountyChampaign CountyChristian CountyClark CountyClay CountyClinton CountyColes CountyCumberland CountyDe Witt CountyDouglas CountyEdgar CountyEffingham CountyFayette CountyFord CountyIroquois CountyJasper CountyLogan CountyMacon CountyMadison CountyMarion CountyMcLean CountyMontgomery CountyMoultrie CountyPiatt CountySangamon CountyShelby CountyVermilion County|
-|3|2.0|2|Boone CountyCarroll CountyJo Daviess CountyLake CountyMcHenry CountyOgle CountyStephenson CountyWinnebago County|
-|4|4.0|2|Bureau CountyDeKalb CountyDuPage CountyGrundy CountyHenry CountyKane CountyKankakee CountyKendall CountyLaSalle CountyLee CountyLivingston CountyMarshall CountyPutnam CountyRock Island CountyStark CountyWhiteside CountyWill CountyWoodford County|
+|0|1.0|1|Alexander County
+Crawford County
+Edwards County
+Franklin County
+Gallatin County
+Hamilton County
+Hardin County
+Jackson County
+Jefferson County
+Johnson County
+Lawrence County
+Massac County
+Monroe County
+Perry County
+Pope County
+Pulaski County
+Randolph County
+Richland County
+Saline County
+St. Clair County
+Union County
+Wabash County
+Washington County
+Wayne County
+White County
+Williamson County|
+|1|1.0|2|Adams County
+Brown County
+Calhoun County
+Cass County
+Fulton County
+Greene County
+Hancock County
+Henderson County
+Jersey County
+Knox County
+Macoupin County
+Mason County
+McDonough County
+Menard County
+Mercer County
+Morgan County
+Peoria County
+Pike County
+Schuyler County
+Scott County
+Tazewell County
+Warren County|
+|2|2.0|0|Bond County
+Champaign County
+Christian County
+Clark County
+Clay County
+Clinton County
+Coles County
+Cumberland County
+De Witt County
+Douglas County
+Edgar County
+Effingham County
+Fayette County
+Ford County
+Iroquois County
+Jasper County
+Logan County
+Macon County
+Madison County
+Marion County
+McLean County
+Montgomery County
+Moultrie County
+Piatt County
+Sangamon County
+Shelby County
+Vermilion County|
+|3|2.0|2|Boone County
+Carroll County
+Jo Daviess County
+Lake County
+McHenry County
+Ogle County
+Stephenson County
+Winnebago County|
+|4|4.0|2|Bureau County
+DeKalb County
+DuPage County
+Grundy County
+Henry County
+Kane County
+Kankakee County
+Kendall County
+LaSalle County
+Lee County
+Livingston County
+Marshall County
+Putnam County
+Rock Island County
+Stark County
+Whiteside County
+Will County
+Woodford County|
 |5|7.0|2|Cook County|
 
 ## IN
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Benton CountyJasper CountyLake CountyNewton CountyPorter CountyWhite County|
-|1|1.0|2|Cass CountyFulton CountyHuntington CountyKosciusko CountyLaPorte CountyMarshall CountyMiami CountyPulaski CountySt. Joseph CountyStarke CountyWabash CountyWhitley County|
-|2|1.0|0|Allen CountyDeKalb CountyElkhart CountyLaGrange CountyNoble CountySteuben County|
-|3|1.0|1|Clay CountyCrawford CountyDaviess CountyDubois CountyGibson CountyGreene CountyKnox CountyLawrence CountyMartin CountyOrange CountyOwen CountyPerry CountyPike CountyPosey CountySpencer CountySullivan CountyVanderburgh CountyVigo CountyWarrick County|
-|4|1.0|2|Bartholomew CountyBrown CountyClark CountyDearborn CountyFloyd CountyHarrison CountyJackson CountyJefferson CountyJennings CountyMonroe CountyOhio CountyRipley CountyScott CountySwitzerland CountyWashington County|
-|5|2.0|2|Adams CountyBlackford CountyBoone CountyCarroll CountyClinton CountyDecatur CountyDelaware CountyFayette CountyFranklin CountyGrant CountyHamilton CountyHancock CountyHenry CountyHoward CountyJay CountyJohnson CountyMadison CountyRandolph CountyRush CountyShelby CountyTipton CountyUnion CountyWayne CountyWells County|
-|6|2.0|2|Fountain CountyHendricks CountyMarion CountyMontgomery CountyMorgan CountyParke CountyPutnam CountyTippecanoe CountyVermillion CountyWarren County|
+|0|1.0|2|Benton County
+Jasper County
+Lake County
+Newton County
+Porter County
+White County|
+|1|1.0|2|Cass County
+Fulton County
+Huntington County
+Kosciusko County
+LaPorte County
+Marshall County
+Miami County
+Pulaski County
+St. Joseph County
+Starke County
+Wabash County
+Whitley County|
+|2|1.0|0|Allen County
+DeKalb County
+Elkhart County
+LaGrange County
+Noble County
+Steuben County|
+|3|1.0|1|Clay County
+Crawford County
+Daviess County
+Dubois County
+Gibson County
+Greene County
+Knox County
+Lawrence County
+Martin County
+Orange County
+Owen County
+Perry County
+Pike County
+Posey County
+Spencer County
+Sullivan County
+Vanderburgh County
+Vigo County
+Warrick County|
+|4|1.0|2|Bartholomew County
+Brown County
+Clark County
+Dearborn County
+Floyd County
+Harrison County
+Jackson County
+Jefferson County
+Jennings County
+Monroe County
+Ohio County
+Ripley County
+Scott County
+Switzerland County
+Washington County|
+|5|2.0|2|Adams County
+Blackford County
+Boone County
+Carroll County
+Clinton County
+Decatur County
+Delaware County
+Fayette County
+Franklin County
+Grant County
+Hamilton County
+Hancock County
+Henry County
+Howard County
+Jay County
+Johnson County
+Madison County
+Randolph County
+Rush County
+Shelby County
+Tipton County
+Union County
+Wayne County
+Wells County|
+|6|2.0|2|Fountain County
+Hendricks County
+Marion County
+Montgomery County
+Morgan County
+Parke County
+Putnam County
+Tippecanoe County
+Vermillion County
+Warren County|
 
 ## IA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Boone CountyBuena Vista CountyButler CountyCalhoun CountyCarroll CountyCerro Gordo CountyCherokee CountyClay CountyCrawford CountyDickinson CountyEmmet CountyFranklin CountyGreene CountyHamilton CountyHancock CountyHardin CountyHarrison CountyHumboldt CountyIda CountyKossuth CountyLyon CountyMonona CountyO'Brien CountyOsceola CountyPalo Alto CountyPlymouth CountyPocahontas CountyPottawattamie CountySac CountyShelby CountySioux CountyStory CountyWebster CountyWinnebago CountyWoodbury CountyWorth CountyWright County|
-|1|1.0|2|Adair CountyAdams CountyAudubon CountyCass CountyClarke CountyDallas CountyDecatur CountyFremont CountyGuthrie CountyMadison CountyMills CountyMontgomery CountyPage CountyPolk CountyRinggold CountyTaylor CountyUnion CountyWarren County|
-|2|1.0|1|Allamakee CountyBremer CountyBuchanan CountyCedar CountyChickasaw CountyClayton CountyClinton CountyDelaware CountyDubuque CountyFayette CountyFloyd CountyHoward CountyJackson CountyJones CountyLinn CountyMitchell CountyScott CountyWinneshiek County|
-|3|1.0|1|Appanoose CountyBenton CountyBlack Hawk CountyDavis CountyDes Moines CountyGrundy CountyHenry CountyIowa CountyJasper CountyJefferson CountyJohnson CountyKeokuk CountyLee CountyLouisa CountyLucas CountyMahaska CountyMarion CountyMarshall CountyMonroe CountyMuscatine CountyPoweshiek CountyTama CountyVan Buren CountyWapello CountyWashington CountyWayne County|
+|0|1.0|2|Boone County
+Buena Vista County
+Butler County
+Calhoun County
+Carroll County
+Cerro Gordo County
+Cherokee County
+Clay County
+Crawford County
+Dickinson County
+Emmet County
+Franklin County
+Greene County
+Hamilton County
+Hancock County
+Hardin County
+Harrison County
+Humboldt County
+Ida County
+Kossuth County
+Lyon County
+Monona County
+O'Brien County
+Osceola County
+Palo Alto County
+Plymouth County
+Pocahontas County
+Pottawattamie County
+Sac County
+Shelby County
+Sioux County
+Story County
+Webster County
+Winnebago County
+Woodbury County
+Worth County
+Wright County|
+|1|1.0|2|Adair County
+Adams County
+Audubon County
+Cass County
+Clarke County
+Dallas County
+Decatur County
+Fremont County
+Guthrie County
+Madison County
+Mills County
+Montgomery County
+Page County
+Polk County
+Ringgold County
+Taylor County
+Union County
+Warren County|
+|2|1.0|1|Allamakee County
+Bremer County
+Buchanan County
+Cedar County
+Chickasaw County
+Clayton County
+Clinton County
+Delaware County
+Dubuque County
+Fayette County
+Floyd County
+Howard County
+Jackson County
+Jones County
+Linn County
+Mitchell County
+Scott County
+Winneshiek County|
+|3|1.0|1|Appanoose County
+Benton County
+Black Hawk County
+Davis County
+Des Moines County
+Grundy County
+Henry County
+Iowa County
+Jasper County
+Jefferson County
+Johnson County
+Keokuk County
+Lee County
+Louisa County
+Lucas County
+Mahaska County
+Marion County
+Marshall County
+Monroe County
+Muscatine County
+Poweshiek County
+Tama County
+Van Buren County
+Wapello County
+Washington County
+Wayne County|
 
 ## KS
 
@@ -146,37 +942,245 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Ballard CountyBreckinridge CountyButler CountyCaldwell CountyCalloway CountyCarlisle CountyChristian CountyCrittenden CountyDaviess CountyFulton CountyGraves CountyGrayson CountyHancock CountyHenderson CountyHickman CountyHopkins CountyLivingston CountyLogan CountyLyon CountyMarshall CountyMcCracken CountyMcLean CountyMeade CountyMuhlenberg CountyOhio CountyTodd CountyTrigg CountyUnion CountyWebster County|
+|0|1.0|1|Ballard County
+Breckinridge County
+Butler County
+Caldwell County
+Calloway County
+Carlisle County
+Christian County
+Crittenden County
+Daviess County
+Fulton County
+Graves County
+Grayson County
+Hancock County
+Henderson County
+Hickman County
+Hopkins County
+Livingston County
+Logan County
+Lyon County
+Marshall County
+McCracken County
+McLean County
+Meade County
+Muhlenberg County
+Ohio County
+Todd County
+Trigg County
+Union County
+Webster County|
 |1|1.0|2|Jefferson County|
-|2|1.0|1|Boone CountyCampbell CountyCarroll CountyFranklin CountyGallatin CountyGrant CountyHenry CountyKenton CountyOldham CountyOwen CountyPendleton CountyScott CountyShelby CountyTrimble CountyWoodford County|
-|3|1.0|1|Adair CountyAllen CountyAnderson CountyBarren CountyBoyle CountyBullitt CountyCasey CountyClinton CountyCumberland CountyEdmonson CountyGreen CountyHardin CountyHart CountyLarue CountyMarion CountyMercer CountyMetcalfe CountyMonroe CountyNelson CountyRussell CountySimpson CountySpencer CountyTaylor CountyWarren CountyWashington County|
-|4|2.0|2|Bath CountyBell CountyBourbon CountyBoyd CountyBracken CountyBreathitt CountyCarter CountyClark CountyClay CountyElliott CountyEstill CountyFayette CountyFleming CountyFloyd CountyGarrard CountyGreenup CountyHarlan CountyHarrison CountyJackson CountyJessamine CountyJohnson CountyKnott CountyKnox CountyLaurel CountyLawrence CountyLee CountyLeslie CountyLetcher CountyLewis CountyLincoln CountyMadison CountyMagoffin CountyMartin CountyMason CountyMcCreary CountyMenifee CountyMontgomery CountyMorgan CountyNicholas CountyOwsley CountyPerry CountyPike CountyPowell CountyPulaski CountyRobertson CountyRockcastle CountyRowan CountyWayne CountyWhitley CountyWolfe County|
+|2|1.0|1|Boone County
+Campbell County
+Carroll County
+Franklin County
+Gallatin County
+Grant County
+Henry County
+Kenton County
+Oldham County
+Owen County
+Pendleton County
+Scott County
+Shelby County
+Trimble County
+Woodford County|
+|3|1.0|1|Adair County
+Allen County
+Anderson County
+Barren County
+Boyle County
+Bullitt County
+Casey County
+Clinton County
+Cumberland County
+Edmonson County
+Green County
+Hardin County
+Hart County
+Larue County
+Marion County
+Mercer County
+Metcalfe County
+Monroe County
+Nelson County
+Russell County
+Simpson County
+Spencer County
+Taylor County
+Warren County
+Washington County|
+|4|2.0|2|Bath County
+Bell County
+Bourbon County
+Boyd County
+Bracken County
+Breathitt County
+Carter County
+Clark County
+Clay County
+Elliott County
+Estill County
+Fayette County
+Fleming County
+Floyd County
+Garrard County
+Greenup County
+Harlan County
+Harrison County
+Jackson County
+Jessamine County
+Johnson County
+Knott County
+Knox County
+Laurel County
+Lawrence County
+Lee County
+Leslie County
+Letcher County
+Lewis County
+Lincoln County
+Madison County
+Magoffin County
+Martin County
+Mason County
+McCreary County
+Menifee County
+Montgomery County
+Morgan County
+Nicholas County
+Owsley County
+Perry County
+Pike County
+Powell County
+Pulaski County
+Robertson County
+Rockcastle County
+Rowan County
+Wayne County
+Whitley County
+Wolfe County|
 
 ## LA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Orleans ParishPlaquemines ParishSt. Bernard ParishSt. Tammany ParishWashington Parish|
-|1|1.0|2|Ascension ParishEast Baton Rouge ParishEast Feliciana ParishLivingston ParishSt. Helena ParishWest Baton Rouge Parish|
-|2|1.0|0|Jefferson ParishLafourche ParishSt. Charles ParishSt. James ParishSt. John the Baptist ParishTangipahoa Parish|
-|3|1.0|1|Acadia ParishAssumption ParishIberia ParishIberville ParishLafayette ParishSt. Landry ParishSt. Martin ParishSt. Mary ParishTerrebonne ParishVermilion Parish|
-|4|1.0|1|Bienville ParishBossier ParishCaddo ParishClaiborne ParishDe Soto ParishJackson ParishLincoln ParishNatchitoches ParishOuachita ParishRed River ParishSabine ParishUnion ParishWebster Parish|
-|5|1.0|0|Allen ParishAvoyelles ParishBeauregard ParishCalcasieu ParishCaldwell ParishCameron ParishCatahoula ParishConcordia ParishEast Carroll ParishEvangeline ParishFranklin ParishGrant ParishJefferson Davis ParishLa Salle ParishMadison ParishMorehouse ParishPointe Coupee ParishRapides ParishRichland ParishTensas ParishVernon ParishWest Carroll ParishWest Feliciana ParishWinn Parish|
+|0|1.0|1|Orleans Parish
+Plaquemines Parish
+St. Bernard Parish
+St. Tammany Parish
+Washington Parish|
+|1|1.0|2|Ascension Parish
+East Baton Rouge Parish
+East Feliciana Parish
+Livingston Parish
+St. Helena Parish
+West Baton Rouge Parish|
+|2|1.0|0|Jefferson Parish
+Lafourche Parish
+St. Charles Parish
+St. James Parish
+St. John the Baptist Parish
+Tangipahoa Parish|
+|3|1.0|1|Acadia Parish
+Assumption Parish
+Iberia Parish
+Iberville Parish
+Lafayette Parish
+St. Landry Parish
+St. Martin Parish
+St. Mary Parish
+Terrebonne Parish
+Vermilion Parish|
+|4|1.0|1|Bienville Parish
+Bossier Parish
+Caddo Parish
+Claiborne Parish
+De Soto Parish
+Jackson Parish
+Lincoln Parish
+Natchitoches Parish
+Ouachita Parish
+Red River Parish
+Sabine Parish
+Union Parish
+Webster Parish|
+|5|1.0|0|Allen Parish
+Avoyelles Parish
+Beauregard Parish
+Calcasieu Parish
+Caldwell Parish
+Cameron Parish
+Catahoula Parish
+Concordia Parish
+East Carroll Parish
+Evangeline Parish
+Franklin Parish
+Grant Parish
+Jefferson Davis Parish
+La Salle Parish
+Madison Parish
+Morehouse Parish
+Pointe Coupee Parish
+Rapides Parish
+Richland Parish
+Tensas Parish
+Vernon Parish
+West Carroll Parish
+West Feliciana Parish
+Winn Parish|
 
 ## ME
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|0|Aroostook CountyFranklin CountyHancock CountyKennebec CountyKnox CountyLincoln CountyPenobscot CountyPiscataquis CountySagadahoc CountySomerset CountyWaldo CountyWashington County|
-|1|1.0|1|Androscoggin CountyCumberland CountyOxford CountyYork County|
+|0|1.0|0|Aroostook County
+Franklin County
+Hancock County
+Kennebec County
+Knox County
+Lincoln County
+Penobscot County
+Piscataquis County
+Sagadahoc County
+Somerset County
+Waldo County
+Washington County|
+|1|1.0|1|Androscoggin County
+Cumberland County
+Oxford County
+York County|
 
 ## MD
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|3|Allegany CountyFrederick CountyGarrett CountyMontgomery CountyWashington County|
-|1|3.0|3|Anne Arundel CountyCalvert CountyCaroline CountyCharles CountyDorchester CountyKent CountyPrince George's CountyQueen Anne's CountySomerset CountySt. Mary's CountyTalbot CountyWicomico CountyWorcester County|
-|2|3.0|0|Baltimore CountyBaltimore cityCarroll CountyCecil CountyHarford CountyHoward County|
+|0|2.0|3|Allegany County
+Frederick County
+Garrett County
+Montgomery County
+Washington County|
+|1|3.0|3|Anne Arundel County
+Calvert County
+Caroline County
+Charles County
+Dorchester County
+Kent County
+Prince George's County
+Queen Anne's County
+Somerset County
+St. Mary's County
+Talbot County
+Wicomico County
+Worcester County|
+|2|3.0|0|Baltimore County
+Baltimore city
+Carroll County
+Cecil County
+Harford County
+Howard County|
 
 ## MA
 
@@ -188,48 +1192,547 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|3.0|1|Macomb CountyOakland CountySt. Clair County|
-|1|3.0|2|Lenawee CountyMonroe CountyWashtenaw CountyWayne County|
-|2|3.0|3|Allegan CountyBarry CountyBerrien CountyBranch CountyCalhoun CountyCass CountyEaton CountyHillsdale CountyKalamazoo CountyKent CountyMuskegon CountyOttawa CountySt. Joseph CountyVan Buren County|
-|3|4.0|0|Alcona CountyAlger CountyAlpena CountyAntrim CountyArenac CountyBaraga CountyBay CountyBenzie CountyCharlevoix CountyCheboygan CountyChippewa CountyClare CountyClinton CountyCrawford CountyDelta CountyDickinson CountyEmmet CountyGenesee CountyGladwin CountyGogebic CountyGrand Traverse CountyGratiot CountyHoughton CountyHuron CountyIngham CountyIonia CountyIosco CountyIron CountyIsabella CountyJackson CountyKalkaska CountyKeweenaw CountyLake CountyLapeer CountyLeelanau CountyLivingston CountyLuce CountyMackinac CountyManistee CountyMarquette CountyMason CountyMecosta CountyMenominee CountyMidland CountyMissaukee CountyMontcalm CountyMontmorency CountyNewaygo CountyOceana CountyOgemaw CountyOntonagon CountyOsceola CountyOscoda CountyOtsego CountyPresque Isle CountyRoscommon CountySaginaw CountySanilac CountySchoolcraft CountyShiawassee CountyTuscola CountyWexford County|
+|0|3.0|1|Macomb County
+Oakland County
+St. Clair County|
+|1|3.0|2|Lenawee County
+Monroe County
+Washtenaw County
+Wayne County|
+|2|3.0|3|Allegan County
+Barry County
+Berrien County
+Branch County
+Calhoun County
+Cass County
+Eaton County
+Hillsdale County
+Kalamazoo County
+Kent County
+Muskegon County
+Ottawa County
+St. Joseph County
+Van Buren County|
+|3|4.0|0|Alcona County
+Alger County
+Alpena County
+Antrim County
+Arenac County
+Baraga County
+Bay County
+Benzie County
+Charlevoix County
+Cheboygan County
+Chippewa County
+Clare County
+Clinton County
+Crawford County
+Delta County
+Dickinson County
+Emmet County
+Genesee County
+Gladwin County
+Gogebic County
+Grand Traverse County
+Gratiot County
+Houghton County
+Huron County
+Ingham County
+Ionia County
+Iosco County
+Iron County
+Isabella County
+Jackson County
+Kalkaska County
+Keweenaw County
+Lake County
+Lapeer County
+Leelanau County
+Livingston County
+Luce County
+Mackinac County
+Manistee County
+Marquette County
+Mason County
+Mecosta County
+Menominee County
+Midland County
+Missaukee County
+Montcalm County
+Montmorency County
+Newaygo County
+Oceana County
+Ogemaw County
+Ontonagon County
+Osceola County
+Oscoda County
+Otsego County
+Presque Isle County
+Roscommon County
+Saginaw County
+Sanilac County
+Schoolcraft County
+Shiawassee County
+Tuscola County
+Wexford County|
 
 ## MN
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|2|Hennepin CountyMille Lacs CountySherburne County|
-|1|3.0|1|Blue Earth CountyBrown CountyCarver CountyCottonwood CountyDakota CountyDodge CountyFaribault CountyFillmore CountyFreeborn CountyGoodhue CountyHouston CountyJackson CountyLe Sueur CountyLincoln CountyLyon CountyMartin CountyMcLeod CountyMower CountyMurray CountyNicollet CountyNobles CountyOlmsted CountyPipestone CountyRamsey CountyRedwood CountyRenville CountyRice CountyRock CountyScott CountySibley CountySteele CountyWabasha CountyWaseca CountyWatonwan CountyWinona CountyYellow Medicine County|
-|2|3.0|1|Aitkin CountyAnoka CountyBecker CountyBeltrami CountyBenton CountyBig Stone CountyCarlton CountyCass CountyChippewa CountyChisago CountyClay CountyClearwater CountyCook CountyCrow Wing CountyDouglas CountyGrant CountyHubbard CountyIsanti CountyItasca CountyKanabec CountyKandiyohi CountyKittson CountyKoochiching CountyLac qui Parle CountyLake CountyLake of the Woods CountyMahnomen CountyMarshall CountyMeeker CountyMorrison CountyNorman CountyOtter Tail CountyPennington CountyPine CountyPolk CountyPope CountyRed Lake CountyRoseau CountySt. Louis CountyStearns CountyStevens CountySwift CountyTodd CountyTraverse CountyWadena CountyWashington CountyWilkin CountyWright County|
+|0|2.0|2|Hennepin County
+Mille Lacs County
+Sherburne County|
+|1|3.0|1|Blue Earth County
+Brown County
+Carver County
+Cottonwood County
+Dakota County
+Dodge County
+Faribault County
+Fillmore County
+Freeborn County
+Goodhue County
+Houston County
+Jackson County
+Le Sueur County
+Lincoln County
+Lyon County
+Martin County
+McLeod County
+Mower County
+Murray County
+Nicollet County
+Nobles County
+Olmsted County
+Pipestone County
+Ramsey County
+Redwood County
+Renville County
+Rice County
+Rock County
+Scott County
+Sibley County
+Steele County
+Wabasha County
+Waseca County
+Watonwan County
+Winona County
+Yellow Medicine County|
+|2|3.0|1|Aitkin County
+Anoka County
+Becker County
+Beltrami County
+Benton County
+Big Stone County
+Carlton County
+Cass County
+Chippewa County
+Chisago County
+Clay County
+Clearwater County
+Cook County
+Crow Wing County
+Douglas County
+Grant County
+Hubbard County
+Isanti County
+Itasca County
+Kanabec County
+Kandiyohi County
+Kittson County
+Koochiching County
+Lac qui Parle County
+Lake County
+Lake of the Woods County
+Mahnomen County
+Marshall County
+Meeker County
+Morrison County
+Norman County
+Otter Tail County
+Pennington County
+Pine County
+Polk County
+Pope County
+Red Lake County
+Roseau County
+St. Louis County
+Stearns County
+Stevens County
+Swift County
+Todd County
+Traverse County
+Wadena County
+Washington County
+Wilkin County
+Wright County|
 
 ## MS
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|1|Adams CountyAmite CountyClaiborne CountyCopiah CountyCovington CountyForrest CountyFranklin CountyGeorge CountyGreene CountyHancock CountyHarrison CountyHinds CountyJackson CountyJefferson CountyJefferson Davis CountyJones CountyLamar CountyLawrence CountyLincoln CountyMarion CountyPearl River CountyPerry CountyPike CountyRankin CountySimpson CountySmith CountyStone CountyWalthall CountyWarren CountyWayne CountyWilkinson County|
-|1|2.0|0|Alcorn CountyAttala CountyBenton CountyBolivar CountyCalhoun CountyCarroll CountyChickasaw CountyChoctaw CountyClarke CountyClay CountyCoahoma CountyDeSoto CountyGrenada CountyHolmes CountyHumphreys CountyIssaquena CountyItawamba CountyJasper CountyKemper CountyLafayette CountyLauderdale CountyLeake CountyLee CountyLeflore CountyLowndes CountyMadison CountyMarshall CountyMonroe CountyMontgomery CountyNeshoba CountyNewton CountyNoxubee CountyOktibbeha CountyPanola CountyPontotoc CountyPrentiss CountyQuitman CountyScott CountySharkey CountySunflower CountyTallahatchie CountyTate CountyTippah CountyTishomingo CountyTunica CountyUnion CountyWashington CountyWebster CountyWinston CountyYalobusha CountyYazoo County|
+|0|2.0|1|Adams County
+Amite County
+Claiborne County
+Copiah County
+Covington County
+Forrest County
+Franklin County
+George County
+Greene County
+Hancock County
+Harrison County
+Hinds County
+Jackson County
+Jefferson County
+Jefferson Davis County
+Jones County
+Lamar County
+Lawrence County
+Lincoln County
+Marion County
+Pearl River County
+Perry County
+Pike County
+Rankin County
+Simpson County
+Smith County
+Stone County
+Walthall County
+Warren County
+Wayne County
+Wilkinson County|
+|1|2.0|0|Alcorn County
+Attala County
+Benton County
+Bolivar County
+Calhoun County
+Carroll County
+Chickasaw County
+Choctaw County
+Clarke County
+Clay County
+Coahoma County
+DeSoto County
+Grenada County
+Holmes County
+Humphreys County
+Issaquena County
+Itawamba County
+Jasper County
+Kemper County
+Lafayette County
+Lauderdale County
+Leake County
+Lee County
+Leflore County
+Lowndes County
+Madison County
+Marshall County
+Monroe County
+Montgomery County
+Neshoba County
+Newton County
+Noxubee County
+Oktibbeha County
+Panola County
+Pontotoc County
+Prentiss County
+Quitman County
+Scott County
+Sharkey County
+Sunflower County
+Tallahatchie County
+Tate County
+Tippah County
+Tishomingo County
+Tunica County
+Union County
+Washington County
+Webster County
+Winston County
+Yalobusha County
+Yazoo County|
 
 ## MO
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|1|Jefferson CountySt. Louis CountySt. Louis city|
-|1|3.0|2|Adair CountyAndrew CountyAtchison CountyAudrain CountyBuchanan CountyCaldwell CountyCallaway CountyCarroll CountyCass CountyChariton CountyChristian CountyClark CountyClay CountyClinton CountyCole CountyCooper CountyDaviess CountyDeKalb CountyGentry CountyGrundy CountyHarrison CountyHenry CountyHolt CountyHoward CountyJackson CountyJohnson CountyKnox CountyLaclede CountyLafayette CountyLewis CountyLinn CountyLivingston CountyMacon CountyMaries CountyMarion CountyMercer CountyMiller CountyMonroe CountyMontgomery CountyNodaway CountyOsage CountyPettis CountyPike CountyPlatte CountyPulaski CountyPutnam CountyRalls CountyRandolph CountyRay CountySaline CountySchuyler CountyScotland CountyShelby CountySullivan CountyWebster CountyWorth CountyWright County|
-|2|3.0|2|Barry CountyBarton CountyBates CountyBenton CountyBollinger CountyBoone CountyButler CountyCamden CountyCape Girardeau CountyCarter CountyCedar CountyCrawford CountyDade CountyDallas CountyDent CountyDouglas CountyDunklin CountyFranklin CountyGasconade CountyGreene CountyHickory CountyHowell CountyIron CountyJasper CountyLawrence CountyLincoln CountyMadison CountyMcDonald CountyMississippi CountyMoniteau CountyMorgan CountyNew Madrid CountyNewton CountyOregon CountyOzark CountyPemiscot CountyPerry CountyPhelps CountyPolk CountyReynolds CountyRipley CountyScott CountyShannon CountySt. Charles CountySt. Clair CountySt. Francois CountySte. Genevieve CountyStoddard CountyStone CountyTaney CountyTexas CountyVernon CountyWarren CountyWashington CountyWayne County|
+|0|2.0|1|Jefferson County
+St. Louis County
+St. Louis city|
+|1|3.0|2|Adair County
+Andrew County
+Atchison County
+Audrain County
+Buchanan County
+Caldwell County
+Callaway County
+Carroll County
+Cass County
+Chariton County
+Christian County
+Clark County
+Clay County
+Clinton County
+Cole County
+Cooper County
+Daviess County
+DeKalb County
+Gentry County
+Grundy County
+Harrison County
+Henry County
+Holt County
+Howard County
+Jackson County
+Johnson County
+Knox County
+Laclede County
+Lafayette County
+Lewis County
+Linn County
+Livingston County
+Macon County
+Maries County
+Marion County
+Mercer County
+Miller County
+Monroe County
+Montgomery County
+Nodaway County
+Osage County
+Pettis County
+Pike County
+Platte County
+Pulaski County
+Putnam County
+Ralls County
+Randolph County
+Ray County
+Saline County
+Schuyler County
+Scotland County
+Shelby County
+Sullivan County
+Webster County
+Worth County
+Wright County|
+|2|3.0|2|Barry County
+Barton County
+Bates County
+Benton County
+Bollinger County
+Boone County
+Butler County
+Camden County
+Cape Girardeau County
+Carter County
+Cedar County
+Crawford County
+Dade County
+Dallas County
+Dent County
+Douglas County
+Dunklin County
+Franklin County
+Gasconade County
+Greene County
+Hickory County
+Howell County
+Iron County
+Jasper County
+Lawrence County
+Lincoln County
+Madison County
+McDonald County
+Mississippi County
+Moniteau County
+Morgan County
+New Madrid County
+Newton County
+Oregon County
+Ozark County
+Pemiscot County
+Perry County
+Phelps County
+Polk County
+Reynolds County
+Ripley County
+Scott County
+Shannon County
+St. Charles County
+St. Clair County
+St. Francois County
+Ste. Genevieve County
+Stoddard County
+Stone County
+Taney County
+Texas County
+Vernon County
+Warren County
+Washington County
+Wayne County|
 
 ## MT
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|0|Big Horn CountyBlaine CountyBroadwater CountyCarbon CountyCarter CountyCascade CountyChouteau CountyCuster CountyDaniels CountyDawson CountyFallon CountyFergus CountyGarfield CountyGlacier CountyGolden Valley CountyHill CountyJudith Basin CountyLewis and Clark CountyLiberty CountyMcCone CountyMeagher CountyMusselshell CountyPark CountyPetroleum CountyPhillips CountyPondera CountyPowder River CountyPrairie CountyRichland CountyRoosevelt CountyRosebud CountySheridan CountyStillwater CountySweet Grass CountyTeton CountyToole CountyTreasure CountyValley CountyWheatland CountyWibaux CountyYellowstone County|
-|1|1.0|1|Beaverhead CountyDeer Lodge CountyFlathead CountyGallatin CountyGranite CountyJefferson CountyLake CountyLincoln CountyMadison CountyMineral CountyMissoula CountyPowell CountyRavalli CountySanders CountySilver Bow County|
+|0|1.0|0|Big Horn County
+Blaine County
+Broadwater County
+Carbon County
+Carter County
+Cascade County
+Chouteau County
+Custer County
+Daniels County
+Dawson County
+Fallon County
+Fergus County
+Garfield County
+Glacier County
+Golden Valley County
+Hill County
+Judith Basin County
+Lewis and Clark County
+Liberty County
+McCone County
+Meagher County
+Musselshell County
+Park County
+Petroleum County
+Phillips County
+Pondera County
+Powder River County
+Prairie County
+Richland County
+Roosevelt County
+Rosebud County
+Sheridan County
+Stillwater County
+Sweet Grass County
+Teton County
+Toole County
+Treasure County
+Valley County
+Wheatland County
+Wibaux County
+Yellowstone County|
+|1|1.0|1|Beaverhead County
+Deer Lodge County
+Flathead County
+Gallatin County
+Granite County
+Jefferson County
+Lake County
+Lincoln County
+Madison County
+Mineral County
+Missoula County
+Powell County
+Ravalli County
+Sanders County
+Silver Bow County|
 
 ## NE
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Burt CountyDodge CountyDouglas CountyWashington County|
-|1|1.0|2|Adams CountyAntelope CountyArthur CountyBanner CountyBlaine CountyBoone CountyBox Butte CountyBoyd CountyBrown CountyBuffalo CountyButler CountyCedar CountyChase CountyCherry CountyCheyenne CountyClay CountyColfax CountyCuming CountyCuster CountyDakota CountyDawes CountyDawson CountyDeuel CountyDixon CountyDundy CountyFillmore CountyFranklin CountyFrontier CountyFurnas CountyGarden CountyGarfield CountyGosper CountyGrant CountyGreeley CountyHall CountyHamilton CountyHarlan CountyHayes CountyHitchcock CountyHolt CountyHooker CountyHoward CountyKearney CountyKeith CountyKeya Paha CountyKimball CountyKnox CountyLincoln CountyLogan CountyLoup CountyMadison CountyMcPherson CountyMerrick CountyMorrill CountyNance CountyNuckolls CountyPerkins CountyPhelps CountyPierce CountyPlatte CountyPolk CountyRed Willow CountyRock CountyScotts Bluff CountySeward CountySheridan CountySherman CountySioux CountyStanton CountyThomas CountyThurston CountyValley CountyWayne CountyWebster CountyWheeler CountyYork County|
-|2|1.0|1|Cass CountyGage CountyJefferson CountyJohnson CountyLancaster CountyNemaha CountyOtoe CountyPawnee CountyRichardson CountySaline CountySarpy CountySaunders CountyThayer County|
+|0|1.0|2|Burt County
+Dodge County
+Douglas County
+Washington County|
+|1|1.0|2|Adams County
+Antelope County
+Arthur County
+Banner County
+Blaine County
+Boone County
+Box Butte County
+Boyd County
+Brown County
+Buffalo County
+Butler County
+Cedar County
+Chase County
+Cherry County
+Cheyenne County
+Clay County
+Colfax County
+Cuming County
+Custer County
+Dakota County
+Dawes County
+Dawson County
+Deuel County
+Dixon County
+Dundy County
+Fillmore County
+Franklin County
+Frontier County
+Furnas County
+Garden County
+Garfield County
+Gosper County
+Grant County
+Greeley County
+Hall County
+Hamilton County
+Harlan County
+Hayes County
+Hitchcock County
+Holt County
+Hooker County
+Howard County
+Kearney County
+Keith County
+Keya Paha County
+Kimball County
+Knox County
+Lincoln County
+Logan County
+Loup County
+Madison County
+McPherson County
+Merrick County
+Morrill County
+Nance County
+Nuckolls County
+Perkins County
+Phelps County
+Pierce County
+Platte County
+Polk County
+Red Willow County
+Rock County
+Scotts Bluff County
+Seward County
+Sheridan County
+Sherman County
+Sioux County
+Stanton County
+Thomas County
+Thurston County
+Valley County
+Wayne County
+Webster County
+Wheeler County
+York County|
+|2|1.0|1|Cass County
+Gage County
+Jefferson County
+Johnson County
+Lancaster County
+Nemaha County
+Otoe County
+Pawnee County
+Richardson County
+Saline County
+Sarpy County
+Saunders County
+Thayer County|
 
 ## NV
 
@@ -247,9 +1750,27 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|4.0|2|Atlantic CountyBurlington CountyCamden CountyCape May CountyCumberland CountyGloucester CountyMonmouth CountyOcean CountySalem County|
-|1|4.0|1|Hunterdon CountyMercer CountyMiddlesex CountyMorris CountySomerset CountySussex CountyUnion CountyWarren County|
-|2|4.0|2|Bergen CountyEssex CountyHudson CountyPassaic County|
+|0|4.0|2|Atlantic County
+Burlington County
+Camden County
+Cape May County
+Cumberland County
+Gloucester County
+Monmouth County
+Ocean County
+Salem County|
+|1|4.0|1|Hunterdon County
+Mercer County
+Middlesex County
+Morris County
+Somerset County
+Sussex County
+Union County
+Warren County|
+|2|4.0|2|Bergen County
+Essex County
+Hudson County
+Passaic County|
 
 ## NM
 
@@ -262,62 +1783,460 @@ Prefer districts with smallest deviation in population from average.
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
 |0|3.0|0|Queens County|
-|1|4.0|1|Kings CountyRichmond County|
-|2|4.0|1|Bronx CountyNew York County|
-|3|7.0|2|Dutchess CountyNassau CountyOrange CountyPutnam CountyRockland CountySuffolk CountySullivan CountyUlster CountyWestchester County|
-|4|8.0|1|Albany CountyAllegany CountyBroome CountyCattaraugus CountyCayuga CountyChautauqua CountyChemung CountyChenango CountyClinton CountyColumbia CountyCortland CountyDelaware CountyErie CountyEssex CountyFranklin CountyFulton CountyGenesee CountyGreene CountyHamilton CountyHerkimer CountyJefferson CountyLewis CountyLivingston CountyMadison CountyMonroe CountyMontgomery CountyNiagara CountyOneida CountyOnondaga CountyOntario CountyOrleans CountyOswego CountyOtsego CountyRensselaer CountySaratoga CountySchenectady CountySchoharie CountySchuyler CountySeneca CountySt. Lawrence CountySteuben CountyTioga CountyTompkins CountyWarren CountyWashington CountyWayne CountyWyoming CountyYates County|
+|1|4.0|1|Kings County
+Richmond County|
+|2|4.0|1|Bronx County
+New York County|
+|3|7.0|2|Dutchess County
+Nassau County
+Orange County
+Putnam County
+Rockland County
+Suffolk County
+Sullivan County
+Ulster County
+Westchester County|
+|4|8.0|1|Albany County
+Allegany County
+Broome County
+Cattaraugus County
+Cayuga County
+Chautauqua County
+Chemung County
+Chenango County
+Clinton County
+Columbia County
+Cortland County
+Delaware County
+Erie County
+Essex County
+Franklin County
+Fulton County
+Genesee County
+Greene County
+Hamilton County
+Herkimer County
+Jefferson County
+Lewis County
+Livingston County
+Madison County
+Monroe County
+Montgomery County
+Niagara County
+Oneida County
+Onondaga County
+Ontario County
+Orleans County
+Oswego County
+Otsego County
+Rensselaer County
+Saratoga County
+Schenectady County
+Schoharie County
+Schuyler County
+Seneca County
+St. Lawrence County
+Steuben County
+Tioga County
+Tompkins County
+Warren County
+Washington County
+Wayne County
+Wyoming County
+Yates County|
 
 ## NC
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Anson CountyCabarrus CountyMontgomery CountyRichmond CountyRowan CountyStanly CountyUnion County|
-|1|2.0|1|Cleveland CountyGaston CountyLincoln CountyMecklenburg County|
-|2|2.0|2|Alexander CountyAlleghany CountyAshe CountyAvery CountyBuncombe CountyBurke CountyCaldwell CountyCatawba CountyCherokee CountyClay CountyGraham CountyHaywood CountyHenderson CountyIredell CountyJackson CountyMacon CountyMadison CountyMcDowell CountyMitchell CountyPolk CountyRutherford CountySwain CountyTransylvania CountyWatauga CountyWilkes CountyYancey County|
-|3|2.0|1|Bladen CountyFranklin CountyJohnston CountySampson CountyWake County|
-|4|2.0|2|Beaufort CountyBertie CountyCamden CountyCarteret CountyChowan CountyCraven CountyCurrituck CountyDare CountyDuplin CountyEdgecombe CountyGates CountyGreene CountyHalifax CountyHertford CountyHyde CountyJones CountyLenoir CountyMartin CountyNash CountyNorthampton CountyOnslow CountyPamlico CountyPasquotank CountyPerquimans CountyPitt CountyTyrrell CountyVance CountyWarren CountyWashington CountyWayne CountyWilson County|
-|5|2.0|2|Alamance CountyCaswell CountyForsyth CountyGuilford CountyOrange CountyRockingham CountyStokes CountySurry County|
-|6|3.0|1|Brunswick CountyChatham CountyColumbus CountyCumberland CountyDavidson CountyDavie CountyDurham CountyGranville CountyHarnett CountyHoke CountyLee CountyMoore CountyNew Hanover CountyPender CountyPerson CountyRandolph CountyRobeson CountyScotland CountyYadkin County|
+|0|1.0|1|Anson County
+Cabarrus County
+Montgomery County
+Richmond County
+Rowan County
+Stanly County
+Union County|
+|1|2.0|1|Cleveland County
+Gaston County
+Lincoln County
+Mecklenburg County|
+|2|2.0|2|Alexander County
+Alleghany County
+Ashe County
+Avery County
+Buncombe County
+Burke County
+Caldwell County
+Catawba County
+Cherokee County
+Clay County
+Graham County
+Haywood County
+Henderson County
+Iredell County
+Jackson County
+Macon County
+Madison County
+McDowell County
+Mitchell County
+Polk County
+Rutherford County
+Swain County
+Transylvania County
+Watauga County
+Wilkes County
+Yancey County|
+|3|2.0|1|Bladen County
+Franklin County
+Johnston County
+Sampson County
+Wake County|
+|4|2.0|2|Beaufort County
+Bertie County
+Camden County
+Carteret County
+Chowan County
+Craven County
+Currituck County
+Dare County
+Duplin County
+Edgecombe County
+Gates County
+Greene County
+Halifax County
+Hertford County
+Hyde County
+Jones County
+Lenoir County
+Martin County
+Nash County
+Northampton County
+Onslow County
+Pamlico County
+Pasquotank County
+Perquimans County
+Pitt County
+Tyrrell County
+Vance County
+Warren County
+Washington County
+Wayne County
+Wilson County|
+|5|2.0|2|Alamance County
+Caswell County
+Forsyth County
+Guilford County
+Orange County
+Rockingham County
+Stokes County
+Surry County|
+|6|3.0|1|Brunswick County
+Chatham County
+Columbus County
+Cumberland County
+Davidson County
+Davie County
+Durham County
+Granville County
+Harnett County
+Hoke County
+Lee County
+Moore County
+New Hanover County
+Pender County
+Person County
+Randolph County
+Robeson County
+Scotland County
+Yadkin County|
 
 ## OH
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|3|Ashland CountyHolmes CountyHuron CountyLorain CountyMedina CountyWayne County|
-|1|2.0|0|Ashtabula CountyCuyahoga CountyLake County|
-|2|2.0|2|Geauga CountyMahoning CountyPortage CountyStark CountySummit CountyTrumbull County|
-|3|2.0|3|Butler CountyDarke CountyGreene CountyMiami CountyMontgomery CountyPreble CountyWarren County|
-|4|2.0|1|Adams CountyBrown CountyClermont CountyClinton CountyFayette CountyGallia CountyHamilton CountyHighland CountyJackson CountyLawrence CountyMeigs CountyPike CountyRoss CountyScioto CountyVinton County|
-|5|3.0|0|Athens CountyBelmont CountyCarroll CountyColumbiana CountyFairfield CountyFranklin CountyGuernsey CountyHarrison CountyHocking CountyJefferson CountyLicking CountyMonroe CountyMorgan CountyMuskingum CountyNoble CountyPerry CountyPickaway CountyWashington County|
-|6|3.0|1|Allen CountyAuglaize CountyChampaign CountyClark CountyCoshocton CountyCrawford CountyDefiance CountyDelaware CountyErie CountyFulton CountyHancock CountyHardin CountyHenry CountyKnox CountyLogan CountyLucas CountyMadison CountyMarion CountyMercer CountyMorrow CountyOttawa CountyPaulding CountyPutnam CountyRichland CountySandusky CountySeneca CountyShelby CountyTuscarawas CountyUnion CountyVan Wert CountyWilliams CountyWood CountyWyandot County|
+|0|1.0|3|Ashland County
+Holmes County
+Huron County
+Lorain County
+Medina County
+Wayne County|
+|1|2.0|0|Ashtabula County
+Cuyahoga County
+Lake County|
+|2|2.0|2|Geauga County
+Mahoning County
+Portage County
+Stark County
+Summit County
+Trumbull County|
+|3|2.0|3|Butler County
+Darke County
+Greene County
+Miami County
+Montgomery County
+Preble County
+Warren County|
+|4|2.0|1|Adams County
+Brown County
+Clermont County
+Clinton County
+Fayette County
+Gallia County
+Hamilton County
+Highland County
+Jackson County
+Lawrence County
+Meigs County
+Pike County
+Ross County
+Scioto County
+Vinton County|
+|5|3.0|0|Athens County
+Belmont County
+Carroll County
+Columbiana County
+Fairfield County
+Franklin County
+Guernsey County
+Harrison County
+Hocking County
+Jefferson County
+Licking County
+Monroe County
+Morgan County
+Muskingum County
+Noble County
+Perry County
+Pickaway County
+Washington County|
+|6|3.0|1|Allen County
+Auglaize County
+Champaign County
+Clark County
+Coshocton County
+Crawford County
+Defiance County
+Delaware County
+Erie County
+Fulton County
+Hancock County
+Hardin County
+Henry County
+Knox County
+Logan County
+Lucas County
+Madison County
+Marion County
+Mercer County
+Morrow County
+Ottawa County
+Paulding County
+Putnam County
+Richland County
+Sandusky County
+Seneca County
+Shelby County
+Tuscarawas County
+Union County
+Van Wert County
+Williams County
+Wood County
+Wyandot County|
 
 ## OK
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|0|Adair CountyAtoka CountyBryan CountyCherokee CountyChoctaw CountyCoal CountyCraig CountyDelaware CountyHaskell CountyHughes CountyLatimer CountyLe Flore CountyMayes CountyMcCurtain CountyMcIntosh CountyMuskogee CountyOkmulgee CountyOttawa CountyPittsburg CountyPushmataha CountyRogers CountySequoyah CountyWagoner County|
-|1|1.0|2|Nowata CountyOsage CountyPawnee CountyTulsa CountyWashington County|
+|0|1.0|0|Adair County
+Atoka County
+Bryan County
+Cherokee County
+Choctaw County
+Coal County
+Craig County
+Delaware County
+Haskell County
+Hughes County
+Latimer County
+Le Flore County
+Mayes County
+McCurtain County
+McIntosh County
+Muskogee County
+Okmulgee County
+Ottawa County
+Pittsburg County
+Pushmataha County
+Rogers County
+Sequoyah County
+Wagoner County|
+|1|1.0|2|Nowata County
+Osage County
+Pawnee County
+Tulsa County
+Washington County|
 |2|1.0|0|Oklahoma County|
-|3|1.0|0|Carter CountyCleveland CountyComanche CountyCotton CountyGarvin CountyGrady CountyJefferson CountyJohnston CountyLove CountyMarshall CountyMcClain CountyMurray CountyPontotoc CountyPottawatomie CountyStephens County|
-|4|1.0|1|Alfalfa CountyBeaver CountyBeckham CountyBlaine CountyCaddo CountyCanadian CountyCimarron CountyCreek CountyCuster CountyDewey CountyEllis CountyGarfield CountyGrant CountyGreer CountyHarmon CountyHarper CountyJackson CountyKay CountyKingfisher CountyKiowa CountyLincoln CountyLogan CountyMajor CountyNoble CountyOkfuskee CountyPayne CountyRoger Mills CountySeminole CountyTexas CountyTillman CountyWashita CountyWoods CountyWoodward County|
+|3|1.0|0|Carter County
+Cleveland County
+Comanche County
+Cotton County
+Garvin County
+Grady County
+Jefferson County
+Johnston County
+Love County
+Marshall County
+McClain County
+Murray County
+Pontotoc County
+Pottawatomie County
+Stephens County|
+|4|1.0|1|Alfalfa County
+Beaver County
+Beckham County
+Blaine County
+Caddo County
+Canadian County
+Cimarron County
+Creek County
+Custer County
+Dewey County
+Ellis County
+Garfield County
+Grant County
+Greer County
+Harmon County
+Harper County
+Jackson County
+Kay County
+Kingfisher County
+Kiowa County
+Lincoln County
+Logan County
+Major County
+Noble County
+Okfuskee County
+Payne County
+Roger Mills County
+Seminole County
+Texas County
+Tillman County
+Washita County
+Woods County
+Woodward County|
 
 ## OR
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|0|Multnomah CountyWashington County|
-|1|2.0|0|Benton CountyClatsop CountyColumbia CountyCoos CountyCurry CountyDouglas CountyJackson CountyJosephine CountyKlamath CountyLane CountyLincoln CountyPolk CountyTillamook CountyYamhill County|
-|2|2.0|2|Baker CountyClackamas CountyCrook CountyDeschutes CountyGilliam CountyGrant CountyHarney CountyHood River CountyJefferson CountyLake CountyLinn CountyMalheur CountyMarion CountyMorrow CountySherman CountyUmatilla CountyUnion CountyWallowa CountyWasco CountyWheeler County|
+|0|2.0|0|Multnomah County
+Washington County|
+|1|2.0|0|Benton County
+Clatsop County
+Columbia County
+Coos County
+Curry County
+Douglas County
+Jackson County
+Josephine County
+Klamath County
+Lane County
+Lincoln County
+Polk County
+Tillamook County
+Yamhill County|
+|2|2.0|2|Baker County
+Clackamas County
+Crook County
+Deschutes County
+Gilliam County
+Grant County
+Harney County
+Hood River County
+Jefferson County
+Lake County
+Linn County
+Malheur County
+Marion County
+Morrow County
+Sherman County
+Umatilla County
+Union County
+Wallowa County
+Wasco County
+Wheeler County|
 
 ## PA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|3.0|3|Bucks CountyPhiladelphia County|
-|1|3.0|1|Chester CountyDelaware CountyLehigh CountyMontgomery County|
-|2|3.0|0|Allegheny CountyBeaver CountyFayette CountyGreene CountyLawrence CountySomerset CountyWashington CountyWestmoreland County|
-|3|4.0|2|Adams CountyArmstrong CountyBedford CountyBlair CountyBradford CountyButler CountyCambria CountyCameron CountyCentre CountyClarion CountyClearfield CountyClinton CountyColumbia CountyCrawford CountyCumberland CountyDauphin CountyElk CountyErie CountyForest CountyFranklin CountyFulton CountyHuntingdon CountyIndiana CountyJefferson CountyJuniata CountyLycoming CountyMcKean CountyMercer CountyMifflin CountyMontour CountyNorthumberland CountyPerry CountyPotter CountySnyder CountySullivan CountyTioga CountyUnion CountyVenango CountyWarren County|
-|4|4.0|3|Berks CountyCarbon CountyLackawanna CountyLancaster CountyLebanon CountyLuzerne CountyMonroe CountyNorthampton CountyPike CountySchuylkill CountySusquehanna CountyWayne CountyWyoming CountyYork County|
+|0|3.0|3|Bucks County
+Philadelphia County|
+|1|3.0|1|Chester County
+Delaware County
+Lehigh County
+Montgomery County|
+|2|3.0|0|Allegheny County
+Beaver County
+Fayette County
+Greene County
+Lawrence County
+Somerset County
+Washington County
+Westmoreland County|
+|3|4.0|2|Adams County
+Armstrong County
+Bedford County
+Blair County
+Bradford County
+Butler County
+Cambria County
+Cameron County
+Centre County
+Clarion County
+Clearfield County
+Clinton County
+Columbia County
+Crawford County
+Cumberland County
+Dauphin County
+Elk County
+Erie County
+Forest County
+Franklin County
+Fulton County
+Huntingdon County
+Indiana County
+Jefferson County
+Juniata County
+Lycoming County
+McKean County
+Mercer County
+Mifflin County
+Montour County
+Northumberland County
+Perry County
+Potter County
+Snyder County
+Sullivan County
+Tioga County
+Union County
+Venango County
+Warren County|
+|4|4.0|3|Berks County
+Carbon County
+Lackawanna County
+Lancaster County
+Lebanon County
+Luzerne County
+Monroe County
+Northampton County
+Pike County
+Schuylkill County
+Susquehanna County
+Wayne County
+Wyoming County
+York County|
 
 ## RI
 
@@ -329,58 +2248,627 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|1|Greenville CountyOconee CountyPickens County|
-|1|2.0|1|Abbeville CountyAiken CountyAnderson CountyCherokee CountyChester CountyEdgefield CountyFairfield CountyGreenwood CountyLancaster CountyLaurens CountyMcCormick CountyNewberry CountySaluda CountySpartanburg CountyUnion CountyYork County|
-|2|2.0|3|Calhoun CountyChesterfield CountyClarendon CountyDarlington CountyDillon CountyFlorence CountyGeorgetown CountyHorry CountyKershaw CountyLee CountyMarion CountyMarlboro CountyRichland CountySumter CountyWilliamsburg County|
-|3|2.0|2|Allendale CountyBamberg CountyBarnwell CountyBeaufort CountyBerkeley CountyCharleston CountyColleton CountyDorchester CountyHampton CountyJasper CountyLexington CountyOrangeburg County|
+|0|1.0|1|Greenville County
+Oconee County
+Pickens County|
+|1|2.0|1|Abbeville County
+Aiken County
+Anderson County
+Cherokee County
+Chester County
+Edgefield County
+Fairfield County
+Greenwood County
+Lancaster County
+Laurens County
+McCormick County
+Newberry County
+Saluda County
+Spartanburg County
+Union County
+York County|
+|2|2.0|3|Calhoun County
+Chesterfield County
+Clarendon County
+Darlington County
+Dillon County
+Florence County
+Georgetown County
+Horry County
+Kershaw County
+Lee County
+Marion County
+Marlboro County
+Richland County
+Sumter County
+Williamsburg County|
+|3|2.0|2|Allendale County
+Bamberg County
+Barnwell County
+Beaufort County
+Berkeley County
+Charleston County
+Colleton County
+Dorchester County
+Hampton County
+Jasper County
+Lexington County
+Orangeburg County|
 
 ## TN
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|0|Benton CountyDickson CountyHickman CountyHouston CountyHumphreys CountyLawrence CountyLewis CountyMaury CountyMontgomery CountyPerry CountyStewart CountyWayne CountyWilliamson County|
-|1|2.0|1|Carroll CountyChester CountyCrockett CountyDecatur CountyDyer CountyFayette CountyGibson CountyHardeman CountyHardin CountyHaywood CountyHenderson CountyHenry CountyLake CountyLauderdale CountyMadison CountyMcNairy CountyObion CountyShelby CountyTipton CountyWeakley County|
-|2|3.0|3|Bedford CountyBledsoe CountyCannon CountyCheatham CountyClay CountyCoffee CountyCumberland CountyDavidson CountyDeKalb CountyFentress CountyFranklin CountyGiles CountyGrundy CountyJackson CountyLincoln CountyMacon CountyMarion CountyMarshall CountyMoore CountyMorgan CountyOverton CountyPickett CountyPutnam CountyRobertson CountyRutherford CountyScott CountySequatchie CountySmith CountySumner CountyTrousdale CountyVan Buren CountyWarren CountyWhite CountyWilson County|
-|3|3.0|1|Anderson CountyBlount CountyBradley CountyCampbell CountyCarter CountyClaiborne CountyCocke CountyGrainger CountyGreene CountyHamblen CountyHamilton CountyHancock CountyHawkins CountyJefferson CountyJohnson CountyKnox CountyLoudon CountyMcMinn CountyMeigs CountyMonroe CountyPolk CountyRhea CountyRoane CountySevier CountySullivan CountyUnicoi CountyUnion CountyWashington County|
+|0|1.0|0|Benton County
+Dickson County
+Hickman County
+Houston County
+Humphreys County
+Lawrence County
+Lewis County
+Maury County
+Montgomery County
+Perry County
+Stewart County
+Wayne County
+Williamson County|
+|1|2.0|1|Carroll County
+Chester County
+Crockett County
+Decatur County
+Dyer County
+Fayette County
+Gibson County
+Hardeman County
+Hardin County
+Haywood County
+Henderson County
+Henry County
+Lake County
+Lauderdale County
+Madison County
+McNairy County
+Obion County
+Shelby County
+Tipton County
+Weakley County|
+|2|3.0|3|Bedford County
+Bledsoe County
+Cannon County
+Cheatham County
+Clay County
+Coffee County
+Cumberland County
+Davidson County
+DeKalb County
+Fentress County
+Franklin County
+Giles County
+Grundy County
+Jackson County
+Lincoln County
+Macon County
+Marion County
+Marshall County
+Moore County
+Morgan County
+Overton County
+Pickett County
+Putnam County
+Robertson County
+Rutherford County
+Scott County
+Sequatchie County
+Smith County
+Sumner County
+Trousdale County
+Van Buren County
+Warren County
+White County
+Wilson County|
+|3|3.0|1|Anderson County
+Blount County
+Bradley County
+Campbell County
+Carter County
+Claiborne County
+Cocke County
+Grainger County
+Greene County
+Hamblen County
+Hamilton County
+Hancock County
+Hawkins County
+Jefferson County
+Johnson County
+Knox County
+Loudon County
+McMinn County
+Meigs County
+Monroe County
+Polk County
+Rhea County
+Roane County
+Sevier County
+Sullivan County
+Unicoi County
+Union County
+Washington County|
 
 ## TX
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|3|Austin CountyChambers CountyGrimes CountyHardin CountyJasper CountyJefferson CountyLiberty CountyMadison CountyMontgomery CountyNewton CountyOrange CountyPolk CountySabine CountySan Jacinto CountyTrinity CountyTyler CountyWalker CountyWashington County|
-|1|6.0|3|Dallas CountyTarrant County|
-|2|6.0|3|Anderson CountyAngelina CountyBowie CountyCamp CountyCass CountyCherokee CountyCollin CountyCooke CountyDelta CountyDenton CountyEllis CountyFalls CountyFannin CountyFranklin CountyFreestone CountyGrayson CountyGregg CountyHarrison CountyHenderson CountyHill CountyHopkins CountyHouston CountyHunt CountyKaufman CountyLamar CountyLeon CountyLimestone CountyMarion CountyMcLennan CountyMorris CountyNacogdoches CountyNavarro CountyPanola CountyRains CountyRed River CountyRockwall CountyRusk CountySan Augustine CountyShelby CountySmith CountyTitus CountyUpshur CountyVan Zandt CountyWood County|
-|3|6.0|3|Aransas CountyAtascosa CountyBee CountyBrazoria CountyBrooks CountyCalhoun CountyCameron CountyColorado CountyDeWitt CountyDimmit CountyDuval CountyFayette CountyFort Bend CountyFrio CountyGalveston CountyGoliad CountyGonzales CountyHidalgo CountyJackson CountyJim Hogg CountyJim Wells CountyKarnes CountyKenedy CountyKinney CountyKleberg CountyLa Salle CountyLavaca CountyLive Oak CountyMatagorda CountyMaverick CountyMcMullen CountyMedina CountyNueces CountyRefugio CountySan Patricio CountyStarr CountyUvalde CountyVictoria CountyWaller CountyWebb CountyWharton CountyWillacy CountyWilson CountyZapata CountyZavala County|
+|0|2.0|3|Austin County
+Chambers County
+Grimes County
+Hardin County
+Jasper County
+Jefferson County
+Liberty County
+Madison County
+Montgomery County
+Newton County
+Orange County
+Polk County
+Sabine County
+San Jacinto County
+Trinity County
+Tyler County
+Walker County
+Washington County|
+|1|6.0|3|Dallas County
+Tarrant County|
+|2|6.0|3|Anderson County
+Angelina County
+Bowie County
+Camp County
+Cass County
+Cherokee County
+Collin County
+Cooke County
+Delta County
+Denton County
+Ellis County
+Falls County
+Fannin County
+Franklin County
+Freestone County
+Grayson County
+Gregg County
+Harrison County
+Henderson County
+Hill County
+Hopkins County
+Houston County
+Hunt County
+Kaufman County
+Lamar County
+Leon County
+Limestone County
+Marion County
+McLennan County
+Morris County
+Nacogdoches County
+Navarro County
+Panola County
+Rains County
+Red River County
+Rockwall County
+Rusk County
+San Augustine County
+Shelby County
+Smith County
+Titus County
+Upshur County
+Van Zandt County
+Wood County|
+|3|6.0|3|Aransas County
+Atascosa County
+Bee County
+Brazoria County
+Brooks County
+Calhoun County
+Cameron County
+Colorado County
+DeWitt County
+Dimmit County
+Duval County
+Fayette County
+Fort Bend County
+Frio County
+Galveston County
+Goliad County
+Gonzales County
+Hidalgo County
+Jackson County
+Jim Hogg County
+Jim Wells County
+Karnes County
+Kenedy County
+Kinney County
+Kleberg County
+La Salle County
+Lavaca County
+Live Oak County
+Matagorda County
+Maverick County
+McMullen County
+Medina County
+Nueces County
+Refugio County
+San Patricio County
+Starr County
+Uvalde County
+Victoria County
+Waller County
+Webb County
+Wharton County
+Willacy County
+Wilson County
+Zapata County
+Zavala County|
 |4|6.0|2|Harris County|
-|5|6.0|3|Bastrop CountyBexar CountyBrazos CountyBurleson CountyCaldwell CountyGuadalupe CountyLee CountyMilam CountyRobertson CountyTravis CountyWilliamson County|
-|6|6.0|1|Andrews CountyArcher CountyArmstrong CountyBailey CountyBandera CountyBaylor CountyBell CountyBlanco CountyBorden CountyBosque CountyBrewster CountyBriscoe CountyBrown CountyBurnet CountyCallahan CountyCarson CountyCastro CountyChildress CountyClay CountyCochran CountyCoke CountyColeman CountyCollingsworth CountyComal CountyComanche CountyConcho CountyCoryell CountyCottle CountyCrane CountyCrockett CountyCrosby CountyCulberson CountyDallam CountyDawson CountyDeaf Smith CountyDickens CountyDonley CountyEastland CountyEctor CountyEdwards CountyEl Paso CountyErath CountyFisher CountyFloyd CountyFoard CountyGaines CountyGarza CountyGillespie CountyGlasscock CountyGray CountyHale CountyHall CountyHamilton CountyHansford CountyHardeman CountyHartley CountyHaskell CountyHays CountyHemphill CountyHockley CountyHood CountyHoward CountyHudspeth CountyHutchinson CountyIrion CountyJack CountyJeff Davis CountyJohnson CountyJones CountyKendall CountyKent CountyKerr CountyKimble CountyKing CountyKnox CountyLamb CountyLampasas CountyLipscomb CountyLlano CountyLoving CountyLubbock CountyLynn CountyMartin CountyMason CountyMcCulloch CountyMenard CountyMidland CountyMills CountyMitchell CountyMontague CountyMoore CountyMotley CountyNolan CountyOchiltree CountyOldham CountyPalo Pinto CountyParker CountyParmer CountyPecos CountyPotter CountyPresidio CountyRandall CountyReagan CountyReal CountyReeves CountyRoberts CountyRunnels CountySan Saba CountySchleicher CountyScurry CountyShackelford CountySherman CountySomervell CountyStephens CountySterling CountyStonewall CountySutton CountySwisher CountyTaylor CountyTerrell CountyTerry CountyThrockmorton CountyTom Green CountyUpton CountyVal Verde CountyWard CountyWheeler CountyWichita CountyWilbarger CountyWinkler CountyWise CountyYoakum CountyYoung County|
+|5|6.0|3|Bastrop County
+Bexar County
+Brazos County
+Burleson County
+Caldwell County
+Guadalupe County
+Lee County
+Milam County
+Robertson County
+Travis County
+Williamson County|
+|6|6.0|1|Andrews County
+Archer County
+Armstrong County
+Bailey County
+Bandera County
+Baylor County
+Bell County
+Blanco County
+Borden County
+Bosque County
+Brewster County
+Briscoe County
+Brown County
+Burnet County
+Callahan County
+Carson County
+Castro County
+Childress County
+Clay County
+Cochran County
+Coke County
+Coleman County
+Collingsworth County
+Comal County
+Comanche County
+Concho County
+Coryell County
+Cottle County
+Crane County
+Crockett County
+Crosby County
+Culberson County
+Dallam County
+Dawson County
+Deaf Smith County
+Dickens County
+Donley County
+Eastland County
+Ector County
+Edwards County
+El Paso County
+Erath County
+Fisher County
+Floyd County
+Foard County
+Gaines County
+Garza County
+Gillespie County
+Glasscock County
+Gray County
+Hale County
+Hall County
+Hamilton County
+Hansford County
+Hardeman County
+Hartley County
+Haskell County
+Hays County
+Hemphill County
+Hockley County
+Hood County
+Howard County
+Hudspeth County
+Hutchinson County
+Irion County
+Jack County
+Jeff Davis County
+Johnson County
+Jones County
+Kendall County
+Kent County
+Kerr County
+Kimble County
+King County
+Knox County
+Lamb County
+Lampasas County
+Lipscomb County
+Llano County
+Loving County
+Lubbock County
+Lynn County
+Martin County
+Mason County
+McCulloch County
+Menard County
+Midland County
+Mills County
+Mitchell County
+Montague County
+Moore County
+Motley County
+Nolan County
+Ochiltree County
+Oldham County
+Palo Pinto County
+Parker County
+Parmer County
+Pecos County
+Potter County
+Presidio County
+Randall County
+Reagan County
+Real County
+Reeves County
+Roberts County
+Runnels County
+San Saba County
+Schleicher County
+Scurry County
+Shackelford County
+Sherman County
+Somervell County
+Stephens County
+Sterling County
+Stonewall County
+Sutton County
+Swisher County
+Taylor County
+Terrell County
+Terry County
+Throckmorton County
+Tom Green County
+Upton County
+Val Verde County
+Ward County
+Wheeler County
+Wichita County
+Wilbarger County
+Winkler County
+Wise County
+Yoakum County
+Young County|
 
 ## UT
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|2|Carbon CountyDuchesne CountyJuab CountyMillard CountySanpete CountySevier CountyUtah CountyWasatch County|
-|1|1.0|1|Box Elder CountyCache CountyDavis CountyMorgan CountyRich CountyWeber County|
-|2|2.0|1|Beaver CountyDaggett CountyEmery CountyGarfield CountyGrand CountyIron CountyKane CountyPiute CountySalt Lake CountySan Juan CountySummit CountyTooele CountyUintah CountyWashington CountyWayne County|
+|0|1.0|2|Carbon County
+Duchesne County
+Juab County
+Millard County
+Sanpete County
+Sevier County
+Utah County
+Wasatch County|
+|1|1.0|1|Box Elder County
+Cache County
+Davis County
+Morgan County
+Rich County
+Weber County|
+|2|2.0|1|Beaver County
+Daggett County
+Emery County
+Garfield County
+Grand County
+Iron County
+Kane County
+Piute County
+Salt Lake County
+San Juan County
+Summit County
+Tooele County
+Uintah County
+Washington County
+Wayne County|
 
 ## VA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|1.0|0|Appomattox CountyBland CountyBristol cityBuchanan CountyCampbell CountyCarroll CountyCharlotte CountyDanville cityDickenson CountyFloyd CountyFranklin CountyGalax cityGrayson CountyHalifax CountyHenry CountyLee CountyMartinsville cityNorton cityPatrick CountyPittsylvania CountyPulaski CountyRussell CountyScott CountySmyth CountyTazewell CountyWashington CountyWise CountyWythe County|
-|1|2.0|1|Alexandria cityArlington CountyFairfax CountyFairfax cityFalls Church city|
-|2|2.0|3|Clarke CountyCulpeper CountyFauquier CountyFrederick CountyGreene CountyHarrisonburg cityLoudoun CountyMadison CountyManassas Park cityManassas cityOrange CountyPage CountyPrince William CountyRappahannock CountyRockingham CountyShenandoah CountyWarren CountyWinchester city|
-|3|2.0|1|Accomack CountyAlbemarle CountyAlleghany CountyAmherst CountyAugusta CountyBath CountyBedford CountyBotetourt CountyBuena Vista cityCharlottesville cityCovington cityCraig CountyFredericksburg cityGiles CountyHampton cityHighland CountyKing George CountyLexington cityLouisa CountyLynchburg cityMontgomery CountyNelson CountyNorthampton CountyNorthumberland CountyPoquoson cityRadford cityRoanoke CountyRoanoke cityRockbridge CountySalem citySpotsylvania CountyStafford CountyStaunton cityWaynesboro cityWestmoreland County|
-|4|2.0|3|Amelia CountyBuckingham CountyCaroline CountyCharles City CountyChesterfield CountyCumberland CountyEssex CountyFluvanna CountyGloucester CountyGoochland CountyHanover CountyHenrico CountyHopewell cityJames City CountyKing William CountyKing and Queen CountyLancaster CountyMathews CountyMiddlesex CountyNew Kent CountyPowhatan CountyPrince Edward CountyRichmond CountyRichmond cityWilliamsburg cityYork County|
-|5|2.0|2|Brunswick CountyChesapeake cityColonial Heights cityDinwiddie CountyEmporia cityFranklin cityGreensville CountyIsle of Wight CountyLunenburg CountyMecklenburg CountyNewport News cityNorfolk cityNottoway CountyPetersburg cityPortsmouth cityPrince George CountySouthampton CountySuffolk citySurry CountySussex CountyVirginia Beach city|
+|0|1.0|0|Appomattox County
+Bland County
+Bristol city
+Buchanan County
+Campbell County
+Carroll County
+Charlotte County
+Danville city
+Dickenson County
+Floyd County
+Franklin County
+Galax city
+Grayson County
+Halifax County
+Henry County
+Lee County
+Martinsville city
+Norton city
+Patrick County
+Pittsylvania County
+Pulaski County
+Russell County
+Scott County
+Smyth County
+Tazewell County
+Washington County
+Wise County
+Wythe County|
+|1|2.0|1|Alexandria city
+Arlington County
+Fairfax County
+Fairfax city
+Falls Church city|
+|2|2.0|3|Clarke County
+Culpeper County
+Fauquier County
+Frederick County
+Greene County
+Harrisonburg city
+Loudoun County
+Madison County
+Manassas Park city
+Manassas city
+Orange County
+Page County
+Prince William County
+Rappahannock County
+Rockingham County
+Shenandoah County
+Warren County
+Winchester city|
+|3|2.0|1|Accomack County
+Albemarle County
+Alleghany County
+Amherst County
+Augusta County
+Bath County
+Bedford County
+Botetourt County
+Buena Vista city
+Charlottesville city
+Covington city
+Craig County
+Fredericksburg city
+Giles County
+Hampton city
+Highland County
+King George County
+Lexington city
+Louisa County
+Lynchburg city
+Montgomery County
+Nelson County
+Northampton County
+Northumberland County
+Poquoson city
+Radford city
+Roanoke County
+Roanoke city
+Rockbridge County
+Salem city
+Spotsylvania County
+Stafford County
+Staunton city
+Waynesboro city
+Westmoreland County|
+|4|2.0|3|Amelia County
+Buckingham County
+Caroline County
+Charles City County
+Chesterfield County
+Cumberland County
+Essex County
+Fluvanna County
+Gloucester County
+Goochland County
+Hanover County
+Henrico County
+Hopewell city
+James City County
+King William County
+King and Queen County
+Lancaster County
+Mathews County
+Middlesex County
+New Kent County
+Powhatan County
+Prince Edward County
+Richmond County
+Richmond city
+Williamsburg city
+York County|
+|5|2.0|2|Brunswick County
+Chesapeake city
+Colonial Heights city
+Dinwiddie County
+Emporia city
+Franklin city
+Greensville County
+Isle of Wight County
+Lunenburg County
+Mecklenburg County
+Newport News city
+Norfolk city
+Nottoway County
+Petersburg city
+Portsmouth city
+Prince George County
+Southampton County
+Suffolk city
+Surry County
+Sussex County
+Virginia Beach city|
 
 ## WA
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|0|Kitsap CountyMason CountyPierce CountyThurston County|
-|1|4.0|0|King CountySnohomish County|
-|2|4.0|2|Adams CountyAsotin CountyBenton CountyChelan CountyClallam CountyClark CountyColumbia CountyCowlitz CountyDouglas CountyFerry CountyFranklin CountyGarfield CountyGrant CountyGrays Harbor CountyIsland CountyJefferson CountyKittitas CountyKlickitat CountyLewis CountyLincoln CountyOkanogan CountyPacific CountyPend Oreille CountySan Juan CountySkagit CountySkamania CountySpokane CountyStevens CountyWahkiakum CountyWalla Walla CountyWhatcom CountyWhitman CountyYakima County|
+|0|2.0|0|Kitsap County
+Mason County
+Pierce County
+Thurston County|
+|1|4.0|0|King County
+Snohomish County|
+|2|4.0|2|Adams County
+Asotin County
+Benton County
+Chelan County
+Clallam County
+Clark County
+Columbia County
+Cowlitz County
+Douglas County
+Ferry County
+Franklin County
+Garfield County
+Grant County
+Grays Harbor County
+Island County
+Jefferson County
+Kittitas County
+Klickitat County
+Lewis County
+Lincoln County
+Okanogan County
+Pacific County
+Pend Oreille County
+San Juan County
+Skagit County
+Skamania County
+Spokane County
+Stevens County
+Wahkiakum County
+Walla Walla County
+Whatcom County
+Whitman County
+Yakima County|
 
 ## WV
 
@@ -392,7 +2880,75 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Deviation %|Counties|
 | :---: | :---: | :---: | :---: |
-|0|2.0|2|Dane CountyDodge CountyJefferson CountyKenosha CountyRacine CountyRock CountyWalworth CountyWashington County|
-|1|2.0|2|Milwaukee CountyOzaukee CountyWaukesha County|
-|2|2.0|1|Adams CountyAshland CountyBarron CountyBayfield CountyBuffalo CountyBurnett CountyChippewa CountyClark CountyColumbia CountyCrawford CountyDouglas CountyDunn CountyEau Claire CountyGrant CountyGreen CountyGreen Lake CountyIowa CountyIron CountyJackson CountyJuneau CountyLa Crosse CountyLafayette CountyMarquette CountyMonroe CountyPepin CountyPierce CountyPolk CountyPortage CountyPrice CountyRichland CountyRusk CountySauk CountySawyer CountySt. Croix CountyTaylor CountyTrempealeau CountyVernon CountyWashburn CountyWaushara CountyWood County|
-|3|2.0|1|Brown CountyCalumet CountyDoor CountyFlorence CountyFond du Lac CountyForest CountyKewaunee CountyLanglade CountyLincoln CountyManitowoc CountyMarathon CountyMarinette CountyMenominee CountyOconto CountyOneida CountyOutagamie CountyShawano CountySheboygan CountyVilas CountyWaupaca CountyWinnebago County|
+|0|2.0|2|Dane County
+Dodge County
+Jefferson County
+Kenosha County
+Racine County
+Rock County
+Walworth County
+Washington County|
+|1|2.0|2|Milwaukee County
+Ozaukee County
+Waukesha County|
+|2|2.0|1|Adams County
+Ashland County
+Barron County
+Bayfield County
+Buffalo County
+Burnett County
+Chippewa County
+Clark County
+Columbia County
+Crawford County
+Douglas County
+Dunn County
+Eau Claire County
+Grant County
+Green County
+Green Lake County
+Iowa County
+Iron County
+Jackson County
+Juneau County
+La Crosse County
+Lafayette County
+Marquette County
+Monroe County
+Pepin County
+Pierce County
+Polk County
+Portage County
+Price County
+Richland County
+Rusk County
+Sauk County
+Sawyer County
+St. Croix County
+Taylor County
+Trempealeau County
+Vernon County
+Washburn County
+Waushara County
+Wood County|
+|3|2.0|1|Brown County
+Calumet County
+Door County
+Florence County
+Fond du Lac County
+Forest County
+Kewaunee County
+Langlade County
+Lincoln County
+Manitowoc County
+Marathon County
+Marinette County
+Menominee County
+Oconto County
+Oneida County
+Outagamie County
+Shawano County
+Sheboygan County
+Vilas County
+Waupaca County
+Winnebago County|
