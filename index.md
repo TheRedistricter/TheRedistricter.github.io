@@ -28,7 +28,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|719410|Blount County|
+|1|1|719410|2%|Blount County|
 |||||Colbert County|
 |||||Cullman County|
 |||||Fayette County|
@@ -41,20 +41,20 @@ Prefer districts with smallest deviation in population from average.
 |||||Morgan County|
 |||||Walker County|
 |||||Winston County|
-|2|1|2%|721286|Cherokee County|
+|2|1|721286|2%|Cherokee County|
 |||||DeKalb County|
 |||||Etowah County|
 |||||Jackson County|
 |||||Madison County|
 |||||Marshall County|
-|3|2|1%|695559|Bibb County|
+|3|2|695559|1%|Bibb County|
 |||||Calhoun County|
 |||||Jefferson County|
 |||||Shelby County|
 |||||St. Clair County|
 |||||Talladega County|
 |||||Tuscaloosa County|
-|4|3|2%|690456|Autauga County|
+|4|3|690456|2%|Autauga County|
 |||||Baldwin County|
 |||||Barbour County|
 |||||Bullock County|
@@ -100,7 +100,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|731545|Aleutians East Borough|
+|1|1|731545|0%|Aleutians East Borough|
 |||||Aleutians West Census Area|
 |||||Anchorage Municipality|
 |||||Bethel Census Area|
@@ -134,7 +134,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|3|2%|828887|Apache County|
+|1|3|828887|2%|Apache County|
 |||||Cochise County|
 |||||Coconino County|
 |||||Greenlee County|
@@ -145,7 +145,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Pinal County|
 |||||Santa Cruz County|
 |||||Yavapai County|
-|2|6|2%|798676|Gila County|
+|2|6|798676|2%|Gila County|
 |||||Graham County|
 |||||Maricopa County|
 |||||Yuma County|
@@ -154,7 +154,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|775758|Craighead County|
+|1|1|775758|2%|Craighead County|
 |||||Crittenden County|
 |||||Cross County|
 |||||Jackson County|
@@ -167,7 +167,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Pulaski County|
 |||||St. Francis County|
 |||||Woodruff County|
-|2|1|1%|748889|Arkansas County|
+|2|1|748889|1%|Arkansas County|
 |||||Ashley County|
 |||||Bradley County|
 |||||Calhoun County|
@@ -197,13 +197,13 @@ Prefer districts with smallest deviation in population from average.
 |||||Saline County|
 |||||Sevier County|
 |||||Union County|
-|3|1|2%|743703|Benton County|
+|3|1|743703|2%|Benton County|
 |||||Crawford County|
 |||||Franklin County|
 |||||Madison County|
 |||||Sebastian County|
 |||||Washington County|
-|4|1|1%|749454|Baxter County|
+|4|1|749454|1%|Baxter County|
 |||||Boone County|
 |||||Carroll County|
 |||||Clay County|
@@ -234,13 +234,13 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|5|2%|748437|Merced County|
+|1|5|748437|2%|Merced County|
 |||||Monterey County|
 |||||San Benito County|
 |||||San Mateo County|
 |||||Santa Clara County|
 |||||Santa Cruz County|
-|2|8|1%|773249|Butte County|
+|2|8|773249|1%|Butte County|
 |||||Colusa County|
 |||||Contra Costa County|
 |||||Del Norte County|
@@ -263,7 +263,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Tehama County|
 |||||Trinity County|
 |||||Yolo County|
-|3|8|2%|750795|Alameda County|
+|3|8|750795|2%|Alameda County|
 |||||Alpine County|
 |||||Amador County|
 |||||Calaveras County|
@@ -283,21 +283,21 @@ Prefer districts with smallest deviation in population from average.
 |||||Tulare County|
 |||||Tuolumne County|
 |||||Yuba County|
-|4|8|2%|748761|Imperial County|
+|4|8|748761|2%|Imperial County|
 |||||Riverside County|
 |||||San Diego County|
-|5|10|1%|754848|Kern County|
+|5|10|754848|1%|Kern County|
 |||||Orange County|
 |||||San Bernardino County|
 |||||Santa Barbara County|
 |||||Ventura County|
-|6|13|1%|772239|Los Angeles County|
+|6|13|772239|1%|Los Angeles County|
 
 ## CO
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|1%|732619|Baca County|
+|1|2|732619|1%|Baca County|
 |||||Bent County|
 |||||Cheyenne County|
 |||||Costilla County|
@@ -319,7 +319,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Sedgwick County|
 |||||Teller County|
 |||||Yuma County|
-|2|2|2%|708340|Alamosa County|
+|2|2|708340|2%|Alamosa County|
 |||||Archuleta County|
 |||||Boulder County|
 |||||Broomfield County|
@@ -351,13 +351,13 @@ Prefer districts with smallest deviation in population from average.
 |||||San Juan County|
 |||||San Miguel County|
 |||||Summit County|
-|3|2|2%|741203|Adams County|
+|3|2|741203|2%|Adams County|
 |||||Clear Creek County|
 |||||Jefferson County|
 |||||Morgan County|
 |||||Park County|
 |||||Weld County|
-|4|2|4%|697205|Arapahoe County|
+|4|2|697205|4%|Arapahoe County|
 |||||Denver County|
 |||||Lincoln County|
 |||||Washington County|
@@ -366,11 +366,11 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|1%|712214|Hartford County|
+|1|2|712214|1%|Hartford County|
 |||||New London County|
 |||||Tolland County|
 |||||Windham County|
-|2|3|0%|713619|Fairfield County|
+|2|3|713619|0%|Fairfield County|
 |||||Litchfield County|
 |||||Middlesex County|
 |||||New Haven County|
@@ -379,7 +379,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|973764|Kent County|
+|1|1|973764|0%|Kent County|
 |||||New Castle County|
 |||||Sussex County|
 
@@ -387,15 +387,15 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|787438|Escambia County|
+|1|1|787438|2%|Escambia County|
 |||||Okaloosa County|
 |||||Santa Rosa County|
 |||||Walton County|
-|2|4|2%|755126|Brevard County|
+|2|4|755126|2%|Brevard County|
 |||||Orange County|
 |||||Seminole County|
 |||||Volusia County|
-|3|5|0%|772151|Alachua County|
+|3|5|772151|0%|Alachua County|
 |||||Baker County|
 |||||Bay County|
 |||||Bradford County|
@@ -430,7 +430,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Union County|
 |||||Wakulla County|
 |||||Washington County|
-|4|6|0%|771270|DeSoto County|
+|4|6|771270|0%|DeSoto County|
 |||||Hardee County|
 |||||Hillsborough County|
 |||||Manatee County|
@@ -438,7 +438,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Pinellas County|
 |||||Polk County|
 |||||Sarasota County|
-|5|6|2%|751949|Charlotte County|
+|5|6|751949|2%|Charlotte County|
 |||||Collier County|
 |||||Glades County|
 |||||Hendry County|
@@ -452,24 +452,24 @@ Prefer districts with smallest deviation in population from average.
 |||||Osceola County|
 |||||Palm Beach County|
 |||||St. Lucie County|
-|6|6|1%|778286|Broward County|
+|6|6|778286|1%|Broward County|
 |||||Miami-Dade County|
 
 ## GA
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|2%|745715|Clayton County|
+|1|2|745715|2%|Clayton County|
 |||||DeKalb County|
 |||||Fayette County|
 |||||Henry County|
 |||||Rockdale County|
-|2|2|0%|764365|Carroll County|
+|2|2|764365|0%|Carroll County|
 |||||Douglas County|
 |||||Fulton County|
 |||||Haralson County|
 |||||Paulding County|
-|3|2|0%|759467|Bartow County|
+|3|2|759467|0%|Bartow County|
 |||||Cherokee County|
 |||||Cobb County|
 |||||Dawson County|
@@ -477,7 +477,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Gilmer County|
 |||||Gordon County|
 |||||Pickens County|
-|4|2|1%|772427|Appling County|
+|4|2|772427|1%|Appling County|
 |||||Atkinson County|
 |||||Bacon County|
 |||||Ben Hill County|
@@ -525,7 +525,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Wayne County|
 |||||Wheeler County|
 |||||Wilcox County|
-|5|2|0%|762165|Baker County|
+|5|2|762165|0%|Baker County|
 |||||Bibb County|
 |||||Bleckley County|
 |||||Butts County|
@@ -570,7 +570,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Upson County|
 |||||Webster County|
 |||||Worth County|
-|6|2|2%|748701|Banks County|
+|6|2|748701|2%|Banks County|
 |||||Catoosa County|
 |||||Chattooga County|
 |||||Clarke County|
@@ -596,7 +596,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Walker County|
 |||||White County|
 |||||Whitfield County|
-|7|2|1%|755869|Baldwin County|
+|7|2|755869|1%|Baldwin County|
 |||||Barrow County|
 |||||Glascock County|
 |||||Greene County|
@@ -623,7 +623,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|707936|Hawaii County|
+|1|2|707936|0%|Hawaii County|
 |||||Honolulu County|
 |||||Kalawao County|
 |||||Kauai County|
@@ -633,7 +633,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|889329|Adams County|
+|1|1|889329|1%|Adams County|
 |||||Bannock County|
 |||||Bear Lake County|
 |||||Benewah County|
@@ -668,7 +668,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Shoshone County|
 |||||Teton County|
 |||||Valley County|
-|2|1|0%|897736|Ada County|
+|2|1|897736|0%|Ada County|
 |||||Boise County|
 |||||Canyon County|
 |||||Elmore County|
@@ -682,7 +682,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|756304|Alexander County|
+|1|1|756304|1%|Alexander County|
 |||||Crawford County|
 |||||Edwards County|
 |||||Franklin County|
@@ -708,7 +708,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Wayne County|
 |||||White County|
 |||||Williamson County|
-|2|1|2%|736398|Adams County|
+|2|1|736398|2%|Adams County|
 |||||Brown County|
 |||||Calhoun County|
 |||||Cass County|
@@ -730,7 +730,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Scott County|
 |||||Tazewell County|
 |||||Warren County|
-|3|2|0%|749462|Bond County|
+|3|2|749462|0%|Bond County|
 |||||Champaign County|
 |||||Christian County|
 |||||Clark County|
@@ -757,7 +757,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Sangamon County|
 |||||Shelby County|
 |||||Vermilion County|
-|4|2|2%|735553|Boone County|
+|4|2|735553|2%|Boone County|
 |||||Carroll County|
 |||||Jo Daviess County|
 |||||Lake County|
@@ -765,7 +765,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Ogle County|
 |||||Stephenson County|
 |||||Winnebago County|
-|5|4|2%|764714|Bureau County|
+|5|4|764714|2%|Bureau County|
 |||||DeKalb County|
 |||||DuPage County|
 |||||Grundy County|
@@ -783,19 +783,19 @@ Prefer districts with smallest deviation in population from average.
 |||||Whiteside County|
 |||||Will County|
 |||||Woodford County|
-|6|7|2%|735747|Cook County|
+|6|7|735747|2%|Cook County|
 
 ## IN
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|736278|Benton County|
+|1|1|736278|2%|Benton County|
 |||||Jasper County|
 |||||Lake County|
 |||||Newton County|
 |||||Porter County|
 |||||White County|
-|2|1|2%|737435|Cass County|
+|2|1|737435|2%|Cass County|
 |||||Fulton County|
 |||||Huntington County|
 |||||Kosciusko County|
@@ -807,13 +807,13 @@ Prefer districts with smallest deviation in population from average.
 |||||Starke County|
 |||||Wabash County|
 |||||Whitley County|
-|3|1|0%|751067|Allen County|
+|3|1|751067|0%|Allen County|
 |||||DeKalb County|
 |||||Elkhart County|
 |||||LaGrange County|
 |||||Noble County|
 |||||Steuben County|
-|4|1|1%|760552|Clay County|
+|4|1|760552|1%|Clay County|
 |||||Crawford County|
 |||||Daviess County|
 |||||Dubois County|
@@ -832,7 +832,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Vanderburgh County|
 |||||Vigo County|
 |||||Warrick County|
-|5|1|2%|735232|Bartholomew County|
+|5|1|735232|2%|Bartholomew County|
 |||||Brown County|
 |||||Clark County|
 |||||Dearborn County|
@@ -847,7 +847,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Scott County|
 |||||Switzerland County|
 |||||Washington County|
-|6|2|2%|738790|Adams County|
+|6|2|738790|2%|Adams County|
 |||||Blackford County|
 |||||Boone County|
 |||||Carroll County|
@@ -871,7 +871,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Union County|
 |||||Wayne County|
 |||||Wells County|
-|7|2|2%|767037|Fountain County|
+|7|2|767037|2%|Fountain County|
 |||||Hendricks County|
 |||||Marion County|
 |||||Montgomery County|
@@ -886,7 +886,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|806024|Boone County|
+|1|1|806024|2%|Boone County|
 |||||Buena Vista County|
 |||||Butler County|
 |||||Calhoun County|
@@ -923,7 +923,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Woodbury County|
 |||||Worth County|
 |||||Wright County|
-|2|1|2%|778807|Adair County|
+|2|1|778807|2%|Adair County|
 |||||Adams County|
 |||||Audubon County|
 |||||Cass County|
@@ -941,7 +941,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Taylor County|
 |||||Union County|
 |||||Warren County|
-|3|1|1%|783580|Allamakee County|
+|3|1|783580|1%|Allamakee County|
 |||||Bremer County|
 |||||Buchanan County|
 |||||Cedar County|
@@ -959,7 +959,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Mitchell County|
 |||||Scott County|
 |||||Winneshiek County|
-|4|1|1%|786659|Appanoose County|
+|4|1|786659|1%|Appanoose County|
 |||||Benton County|
 |||||Black Hawk County|
 |||||Davis County|
@@ -990,7 +990,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|4|0%|728328|Allen County|
+|1|4|728328|0%|Allen County|
 |||||Anderson County|
 |||||Atchison County|
 |||||Barber County|
@@ -1100,7 +1100,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|738877|Ballard County|
+|1|1|738877|1%|Ballard County|
 |||||Breckinridge County|
 |||||Butler County|
 |||||Caldwell County|
@@ -1129,8 +1129,8 @@ Prefer districts with smallest deviation in population from average.
 |||||Trigg County|
 |||||Union County|
 |||||Webster County|
-|2|1|2%|766757|Jefferson County|
-|3|1|1%|739372|Boone County|
+|2|1|766757|2%|Jefferson County|
+|3|1|739372|1%|Boone County|
 |||||Campbell County|
 |||||Carroll County|
 |||||Franklin County|
@@ -1145,7 +1145,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Shelby County|
 |||||Trimble County|
 |||||Woodford County|
-|4|1|1%|754488|Adair County|
+|4|1|754488|1%|Adair County|
 |||||Allen County|
 |||||Anderson County|
 |||||Barren County|
@@ -1170,7 +1170,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Taylor County|
 |||||Warren County|
 |||||Washington County|
-|5|2|2%|734089|Bath County|
+|5|2|734089|2%|Bath County|
 |||||Bell County|
 |||||Bourbon County|
 |||||Boyd County|
@@ -1225,24 +1225,24 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|767198|Orleans Parish|
+|1|1|767198|1%|Orleans Parish|
 |||||Plaquemines Parish|
 |||||St. Bernard Parish|
 |||||St. Tammany Parish|
 |||||Washington Parish|
-|2|1|2%|763184|Ascension Parish|
+|2|1|763184|2%|Ascension Parish|
 |||||East Baton Rouge Parish|
 |||||East Feliciana Parish|
 |||||Livingston Parish|
 |||||St. Helena Parish|
 |||||West Baton Rouge Parish|
-|3|1|0%|781898|Jefferson Parish|
+|3|1|781898|0%|Jefferson Parish|
 |||||Lafourche Parish|
 |||||St. Charles Parish|
 |||||St. James Parish|
 |||||St. John the Baptist Parish|
 |||||Tangipahoa Parish|
-|4|1|1%|785542|Acadia Parish|
+|4|1|785542|1%|Acadia Parish|
 |||||Assumption Parish|
 |||||Iberia Parish|
 |||||Iberville Parish|
@@ -1252,7 +1252,7 @@ Prefer districts with smallest deviation in population from average.
 |||||St. Mary Parish|
 |||||Terrebonne Parish|
 |||||Vermilion Parish|
-|5|1|1%|770314|Bienville Parish|
+|5|1|770314|1%|Bienville Parish|
 |||||Bossier Parish|
 |||||Caddo Parish|
 |||||Claiborne Parish|
@@ -1265,7 +1265,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Sabine Parish|
 |||||Union Parish|
 |||||Webster Parish|
-|6|1|0%|780658|Allen Parish|
+|6|1|780658|0%|Allen Parish|
 |||||Avoyelles Parish|
 |||||Beauregard Parish|
 |||||Calcasieu Parish|
@@ -1294,7 +1294,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|675316|Aroostook County|
+|1|1|675316|0%|Aroostook County|
 |||||Franklin County|
 |||||Hancock County|
 |||||Kennebec County|
@@ -1306,7 +1306,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Somerset County|
 |||||Waldo County|
 |||||Washington County|
-|2|1|1%|668896|Androscoggin County|
+|2|1|668896|1%|Androscoggin County|
 |||||Cumberland County|
 |||||Oxford County|
 |||||York County|
@@ -1315,12 +1315,12 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|3%|780357|Allegany County|
+|1|2|780357|3%|Allegany County|
 |||||Frederick County|
 |||||Garrett County|
 |||||Montgomery County|
 |||||Washington County|
-|2|3|3%|737224|Anne Arundel County|
+|2|3|737224|3%|Anne Arundel County|
 |||||Calvert County|
 |||||Caroline County|
 |||||Charles County|
@@ -1333,7 +1333,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Talbot County|
 |||||Wicomico County|
 |||||Worcester County|
-|3|3|0%|757764|Baltimore County|
+|3|3|757764|0%|Baltimore County|
 |||||Baltimore city|
 |||||Carroll County|
 |||||Cecil County|
@@ -1344,7 +1344,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|9|0%|765833|Barnstable County|
+|1|9|765833|0%|Barnstable County|
 |||||Berkshire County|
 |||||Bristol County|
 |||||Dukes County|
@@ -1363,14 +1363,14 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|3|1%|763561|Macomb County|
+|1|3|763561|1%|Macomb County|
 |||||Oakland County|
 |||||St. Clair County|
-|2|3|2%|788631|Lenawee County|
+|2|3|788631|2%|Lenawee County|
 |||||Monroe County|
 |||||Washtenaw County|
 |||||Wayne County|
-|3|3|3%|747475|Allegan County|
+|3|3|747475|3%|Allegan County|
 |||||Barry County|
 |||||Berrien County|
 |||||Branch County|
@@ -1384,7 +1384,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Ottawa County|
 |||||St. Joseph County|
 |||||Van Buren County|
-|4|4|0%|771963|Alcona County|
+|4|4|771963|0%|Alcona County|
 |||||Alger County|
 |||||Alpena County|
 |||||Antrim County|
@@ -1451,10 +1451,10 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|2%|694679|Hennepin County|
+|1|2|694679|2%|Hennepin County|
 |||||Mille Lacs County|
 |||||Sherburne County|
-|2|3|1%|718008|Blue Earth County|
+|2|3|718008|1%|Blue Earth County|
 |||||Brown County|
 |||||Carver County|
 |||||Cottonwood County|
@@ -1490,7 +1490,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Watonwan County|
 |||||Winona County|
 |||||Yellow Medicine County|
-|3|3|1%|698750|Aitkin County|
+|3|3|698750|1%|Aitkin County|
 |||||Anoka County|
 |||||Becker County|
 |||||Beltrami County|
@@ -1543,7 +1543,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|1%|741436|Adams County|
+|1|2|741436|1%|Adams County|
 |||||Amite County|
 |||||Claiborne County|
 |||||Copiah County|
@@ -1574,7 +1574,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Warren County|
 |||||Wayne County|
 |||||Wilkinson County|
-|2|2|0%|746638|Alcorn County|
+|2|2|746638|0%|Alcorn County|
 |||||Attala County|
 |||||Benton County|
 |||||Bolivar County|
@@ -1630,10 +1630,10 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|1%|759931|Jefferson County|
+|1|2|759931|1%|Jefferson County|
 |||||St. Louis County|
 |||||St. Louis city|
-|2|3|2%|755715|Adair County|
+|2|3|755715|2%|Adair County|
 |||||Andrew County|
 |||||Atchison County|
 |||||Audrain County|
@@ -1690,7 +1690,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Webster County|
 |||||Worth County|
 |||||Wright County|
-|3|3|2%|783473|Barry County|
+|3|3|783473|2%|Barry County|
 |||||Barton County|
 |||||Bates County|
 |||||Benton County|
@@ -1750,7 +1750,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|535586|Big Horn County|
+|1|1|535586|0%|Big Horn County|
 |||||Blaine County|
 |||||Broadwater County|
 |||||Carbon County|
@@ -1791,7 +1791,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Wheatland County|
 |||||Wibaux County|
 |||||Yellowstone County|
-|2|1|1%|533192|Beaverhead County|
+|2|1|533192|1%|Beaverhead County|
 |||||Deer Lodge County|
 |||||Flathead County|
 |||||Gallatin County|
@@ -1811,11 +1811,11 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|635080|Burt County|
+|1|1|635080|2%|Burt County|
 |||||Dodge County|
 |||||Douglas County|
 |||||Washington County|
-|2|1|2%|658897|Adams County|
+|2|1|658897|2%|Adams County|
 |||||Antelope County|
 |||||Arthur County|
 |||||Banner County|
@@ -1891,7 +1891,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Webster County|
 |||||Wheeler County|
 |||||York County|
-|3|1|1%|640431|Cass County|
+|3|1|640431|1%|Cass County|
 |||||Gage County|
 |||||Jefferson County|
 |||||Johnson County|
@@ -1909,7 +1909,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|4|0%|770039|Churchill County|
+|1|4|770039|0%|Churchill County|
 |||||Clark County|
 |||||Douglas County|
 |||||Elko County|
@@ -1931,7 +1931,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|679855|Belknap County|
+|1|2|679855|0%|Belknap County|
 |||||Carroll County|
 |||||Cheshire County|
 |||||Coos County|
@@ -1946,7 +1946,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|4|2%|759264|Atlantic County|
+|1|4|759264|2%|Atlantic County|
 |||||Burlington County|
 |||||Camden County|
 |||||Cape May County|
@@ -1955,7 +1955,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Monmouth County|
 |||||Ocean County|
 |||||Salem County|
-|2|4|1%|734934|Hunterdon County|
+|2|4|734934|1%|Hunterdon County|
 |||||Mercer County|
 |||||Middlesex County|
 |||||Morris County|
@@ -1963,7 +1963,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Sussex County|
 |||||Union County|
 |||||Warren County|
-|3|4|2%|726348|Bergen County|
+|3|4|726348|2%|Bergen County|
 |||||Essex County|
 |||||Hudson County|
 |||||Passaic County|
@@ -1972,7 +1972,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|3|0%|698943|Bernalillo County|
+|1|3|698943|0%|Bernalillo County|
 |||||Catron County|
 |||||Chaves County|
 |||||Cibola County|
@@ -2010,12 +2010,12 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|3|0%|751286|Queens County|
-|2|4|1%|759011|Kings County|
+|1|3|751286|0%|Queens County|
+|2|4|759011|1%|Kings County|
 |||||Richmond County|
-|3|4|1%|761728|Bronx County|
+|3|4|761728|1%|Bronx County|
 |||||New York County|
-|4|7|2%|736757|Dutchess County|
+|4|7|736757|2%|Dutchess County|
 |||||Nassau County|
 |||||Orange County|
 |||||Putnam County|
@@ -2024,7 +2024,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Sullivan County|
 |||||Ulster County|
 |||||Westchester County|
-|5|8|1%|744930|Albany County|
+|5|8|744930|1%|Albany County|
 |||||Allegany County|
 |||||Broome County|
 |||||Cattaraugus County|
@@ -2077,18 +2077,18 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|757654|Anson County|
+|1|1|757654|1%|Anson County|
 |||||Cabarrus County|
 |||||Montgomery County|
 |||||Richmond County|
 |||||Rowan County|
 |||||Stanly County|
 |||||Union County|
-|2|2|1%|759471|Cleveland County|
+|2|2|759471|1%|Cleveland County|
 |||||Gaston County|
 |||||Lincoln County|
 |||||Mecklenburg County|
-|3|2|2%|768980|Alexander County|
+|3|2|768980|2%|Alexander County|
 |||||Alleghany County|
 |||||Ashe County|
 |||||Avery County|
@@ -2114,12 +2114,12 @@ Prefer districts with smallest deviation in population from average.
 |||||Watauga County|
 |||||Wilkes County|
 |||||Yancey County|
-|4|2|1%|743519|Bladen County|
+|4|2|743519|1%|Bladen County|
 |||||Franklin County|
 |||||Johnston County|
 |||||Sampson County|
 |||||Wake County|
-|5|2|2%|739839|Beaufort County|
+|5|2|739839|2%|Beaufort County|
 |||||Bertie County|
 |||||Camden County|
 |||||Carteret County|
@@ -2150,7 +2150,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Washington County|
 |||||Wayne County|
 |||||Wilson County|
-|6|2|2%|734221|Alamance County|
+|6|2|734221|2%|Alamance County|
 |||||Caswell County|
 |||||Forsyth County|
 |||||Guilford County|
@@ -2158,7 +2158,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Rockingham County|
 |||||Stokes County|
 |||||Surry County|
-|7|3|1%|746122|Brunswick County|
+|7|3|746122|1%|Brunswick County|
 |||||Chatham County|
 |||||Columbus County|
 |||||Cumberland County|
@@ -2182,7 +2182,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|762062|Adams County|
+|1|1|762062|0%|Adams County|
 |||||Barnes County|
 |||||Benson County|
 |||||Billings County|
@@ -2240,29 +2240,29 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|3%|760999|Ashland County|
+|1|1|760999|3%|Ashland County|
 |||||Holmes County|
 |||||Huron County|
 |||||Lorain County|
 |||||Medina County|
 |||||Wayne County|
-|2|2|0%|781231|Ashtabula County|
+|2|2|781231|0%|Ashtabula County|
 |||||Cuyahoga County|
 |||||Lake County|
-|3|2|2%|797195|Geauga County|
+|3|2|797195|2%|Geauga County|
 |||||Mahoning County|
 |||||Portage County|
 |||||Stark County|
 |||||Summit County|
 |||||Trumbull County|
-|4|2|3%|758671|Butler County|
+|4|2|758671|3%|Butler County|
 |||||Darke County|
 |||||Greene County|
 |||||Miami County|
 |||||Montgomery County|
 |||||Preble County|
 |||||Warren County|
-|5|2|1%|773101|Adams County|
+|5|2|773101|1%|Adams County|
 |||||Brown County|
 |||||Clermont County|
 |||||Clinton County|
@@ -2277,7 +2277,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Ross County|
 |||||Scioto County|
 |||||Vinton County|
-|6|3|0%|781043|Athens County|
+|6|3|781043|0%|Athens County|
 |||||Belmont County|
 |||||Carroll County|
 |||||Columbiana County|
@@ -2295,7 +2295,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Perry County|
 |||||Pickaway County|
 |||||Washington County|
-|7|3|1%|788191|Allen County|
+|7|3|788191|1%|Allen County|
 |||||Auglaize County|
 |||||Champaign County|
 |||||Clark County|
@@ -2333,7 +2333,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|796938|Adair County|
+|1|1|796938|0%|Adair County|
 |||||Atoka County|
 |||||Bryan County|
 |||||Cherokee County|
@@ -2356,13 +2356,13 @@ Prefer districts with smallest deviation in population from average.
 |||||Rogers County|
 |||||Sequoyah County|
 |||||Wagoner County|
-|2|1|2%|776494|Nowata County|
+|2|1|776494|2%|Nowata County|
 |||||Osage County|
 |||||Pawnee County|
 |||||Tulsa County|
 |||||Washington County|
-|3|1|0%|797434|Oklahoma County|
-|4|1|0%|794922|Carter County|
+|3|1|797434|0%|Oklahoma County|
+|4|1|794922|0%|Carter County|
 |||||Cleveland County|
 |||||Comanche County|
 |||||Cotton County|
@@ -2377,7 +2377,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Pontotoc County|
 |||||Pottawatomie County|
 |||||Stephens County|
-|5|1|1%|791183|Alfalfa County|
+|5|1|791183|1%|Alfalfa County|
 |||||Beaver County|
 |||||Beckham County|
 |||||Blaine County|
@@ -2415,9 +2415,9 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|707223|Multnomah County|
+|1|2|707223|0%|Multnomah County|
 |||||Washington County|
-|2|2|0%|706471|Benton County|
+|2|2|706471|0%|Benton County|
 |||||Clatsop County|
 |||||Columbia County|
 |||||Coos County|
@@ -2431,7 +2431,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Polk County|
 |||||Tillamook County|
 |||||Yamhill County|
-|3|2|2%|695174|Baker County|
+|3|2|695174|2%|Baker County|
 |||||Clackamas County|
 |||||Crook County|
 |||||Deschutes County|
@@ -2456,13 +2456,13 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|3|3%|737444|Bucks County|
+|1|3|737444|3%|Bucks County|
 |||||Philadelphia County|
-|2|3|1%|763989|Chester County|
+|2|3|763989|1%|Chester County|
 |||||Delaware County|
 |||||Lehigh County|
 |||||Montgomery County|
-|3|3|0%|753401|Allegheny County|
+|3|3|753401|0%|Allegheny County|
 |||||Beaver County|
 |||||Fayette County|
 |||||Greene County|
@@ -2470,7 +2470,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Somerset County|
 |||||Washington County|
 |||||Westmoreland County|
-|4|4|2%|774315|Adams County|
+|4|4|774315|2%|Adams County|
 |||||Armstrong County|
 |||||Bedford County|
 |||||Blair County|
@@ -2509,7 +2509,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Union County|
 |||||Venango County|
 |||||Warren County|
-|5|4|3%|735054|Berks County|
+|5|4|735054|3%|Berks County|
 |||||Carbon County|
 |||||Lackawanna County|
 |||||Lancaster County|
@@ -2528,7 +2528,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|529680|Bristol County|
+|1|2|529680|0%|Bristol County|
 |||||Kent County|
 |||||Newport County|
 |||||Providence County|
@@ -2538,10 +2538,10 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|1%|729972|Greenville County|
+|1|1|729972|1%|Greenville County|
 |||||Oconee County|
 |||||Pickens County|
-|2|2|1%|734940|Abbeville County|
+|2|2|734940|1%|Abbeville County|
 |||||Aiken County|
 |||||Anderson County|
 |||||Cherokee County|
@@ -2557,7 +2557,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Spartanburg County|
 |||||Union County|
 |||||York County|
-|3|2|3%|719550|Calhoun County|
+|3|2|719550|3%|Calhoun County|
 |||||Chesterfield County|
 |||||Clarendon County|
 |||||Darlington County|
@@ -2572,7 +2572,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Richland County|
 |||||Sumter County|
 |||||Williamsburg County|
-|4|2|2%|754880|Allendale County|
+|4|2|754880|2%|Allendale County|
 |||||Bamberg County|
 |||||Barnwell County|
 |||||Beaufort County|
@@ -2589,7 +2589,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|884659|Aurora County|
+|1|1|884659|0%|Aurora County|
 |||||Beadle County|
 |||||Bennett County|
 |||||Bon Homme County|
@@ -2660,7 +2660,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|760735|Benton County|
+|1|1|760735|0%|Benton County|
 |||||Dickson County|
 |||||Hickman County|
 |||||Houston County|
@@ -2673,7 +2673,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Stewart County|
 |||||Wayne County|
 |||||Williamson County|
-|2|2|1%|772669|Carroll County|
+|2|2|772669|1%|Carroll County|
 |||||Chester County|
 |||||Crockett County|
 |||||Decatur County|
@@ -2693,7 +2693,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Shelby County|
 |||||Tipton County|
 |||||Weakley County|
-|3|3|3%|738520|Bedford County|
+|3|3|738520|3%|Bedford County|
 |||||Bledsoe County|
 |||||Cannon County|
 |||||Cheatham County|
@@ -2727,7 +2727,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Warren County|
 |||||White County|
 |||||Wilson County|
-|4|3|1%|769179|Anderson County|
+|4|3|769179|1%|Anderson County|
 |||||Blount County|
 |||||Bradley County|
 |||||Campbell County|
@@ -2760,7 +2760,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|3%|745130|Austin County|
+|1|2|745130|3%|Austin County|
 |||||Chambers County|
 |||||Grimes County|
 |||||Hardin County|
@@ -2778,9 +2778,9 @@ Prefer districts with smallest deviation in population from average.
 |||||Tyler County|
 |||||Walker County|
 |||||Washington County|
-|2|6|3%|789671|Dallas County|
+|2|6|789671|3%|Dallas County|
 |||||Tarrant County|
-|3|6|3%|740964|Anderson County|
+|3|6|740964|3%|Anderson County|
 |||||Angelina County|
 |||||Bowie County|
 |||||Camp County|
@@ -2824,7 +2824,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Upshur County|
 |||||Van Zandt County|
 |||||Wood County|
-|4|6|3%|747058|Aransas County|
+|4|6|747058|3%|Aransas County|
 |||||Atascosa County|
 |||||Bee County|
 |||||Brazoria County|
@@ -2869,8 +2869,8 @@ Prefer districts with smallest deviation in population from average.
 |||||Wilson County|
 |||||Zapata County|
 |||||Zavala County|
-|5|6|2%|785554|Harris County|
-|6|6|3%|745680|Bastrop County|
+|5|6|785554|2%|Harris County|
+|6|6|745680|3%|Bastrop County|
 |||||Bexar County|
 |||||Brazos County|
 |||||Burleson County|
@@ -2881,7 +2881,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Robertson County|
 |||||Travis County|
 |||||Williamson County|
-|7|6|1%|775340|Andrews County|
+|7|6|775340|1%|Andrews County|
 |||||Archer County|
 |||||Armstrong County|
 |||||Bailey County|
@@ -3019,7 +3019,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|2%|788491|Carbon County|
+|1|1|788491|2%|Carbon County|
 |||||Duchesne County|
 |||||Juab County|
 |||||Millard County|
@@ -3027,13 +3027,13 @@ Prefer districts with smallest deviation in population from average.
 |||||Sevier County|
 |||||Utah County|
 |||||Wasatch County|
-|2|1|1%|814636|Box Elder County|
+|2|1|814636|1%|Box Elder County|
 |||||Cache County|
 |||||Davis County|
 |||||Morgan County|
 |||||Rich County|
 |||||Weber County|
-|3|2|1%|801415|Beaver County|
+|3|2|801415|1%|Beaver County|
 |||||Daggett County|
 |||||Emery County|
 |||||Garfield County|
@@ -3053,7 +3053,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|623989|Addison County|
+|1|1|623989|0%|Addison County|
 |||||Bennington County|
 |||||Caledonia County|
 |||||Chittenden County|
@@ -3072,7 +3072,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|779636|Appomattox County|
+|1|1|779636|0%|Appomattox County|
 |||||Bland County|
 |||||Bristol city|
 |||||Buchanan County|
@@ -3100,12 +3100,12 @@ Prefer districts with smallest deviation in population from average.
 |||||Washington County|
 |||||Wise County|
 |||||Wythe County|
-|2|2|1%|791219|Alexandria city|
+|2|2|791219|1%|Alexandria city|
 |||||Arlington County|
 |||||Fairfax County|
 |||||Fairfax city|
 |||||Falls Church city|
-|3|2|3%|759210|Clarke County|
+|3|2|759210|3%|Clarke County|
 |||||Culpeper County|
 |||||Fauquier County|
 |||||Frederick County|
@@ -3123,7 +3123,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Shenandoah County|
 |||||Warren County|
 |||||Winchester city|
-|4|2|1%|772404|Accomack County|
+|4|2|772404|1%|Accomack County|
 |||||Albemarle County|
 |||||Alleghany County|
 |||||Amherst County|
@@ -3158,7 +3158,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Staunton city|
 |||||Waynesboro city|
 |||||Westmoreland County|
-|5|2|3%|760052|Amelia County|
+|5|2|760052|3%|Amelia County|
 |||||Buckingham County|
 |||||Caroline County|
 |||||Charles City County|
@@ -3184,7 +3184,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Richmond city|
 |||||Williamsburg city|
 |||||York County|
-|6|2|2%|795055|Brunswick County|
+|6|2|795055|2%|Brunswick County|
 |||||Chesapeake city|
 |||||Colonial Heights city|
 |||||Dinwiddie County|
@@ -3210,13 +3210,13 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|766878|Kitsap County|
+|1|2|766878|0%|Kitsap County|
 |||||Mason County|
 |||||Pierce County|
 |||||Thurston County|
-|2|4|0%|768716|King County|
+|2|4|768716|0%|King County|
 |||||Snohomish County|
-|3|4|2%|751567|Adams County|
+|3|4|751567|2%|Adams County|
 |||||Asotin County|
 |||||Benton County|
 |||||Chelan County|
@@ -3254,7 +3254,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|0%|896073|Barbour County|
+|1|2|896073|0%|Barbour County|
 |||||Berkeley County|
 |||||Boone County|
 |||||Braxton County|
@@ -3314,7 +3314,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|2|2%|744215|Dane County|
+|1|2|744215|2%|Dane County|
 |||||Dodge County|
 |||||Jefferson County|
 |||||Kenosha County|
@@ -3322,10 +3322,10 @@ Prefer districts with smallest deviation in population from average.
 |||||Rock County|
 |||||Walworth County|
 |||||Washington County|
-|2|2|2%|719572|Milwaukee County|
+|2|2|719572|2%|Milwaukee County|
 |||||Ozaukee County|
 |||||Waukesha County|
-|3|2|1%|723160|Adams County|
+|3|2|723160|1%|Adams County|
 |||||Ashland County|
 |||||Barron County|
 |||||Bayfield County|
@@ -3365,7 +3365,7 @@ Prefer districts with smallest deviation in population from average.
 |||||Washburn County|
 |||||Waushara County|
 |||||Wood County|
-|4|2|1%|724268|Brown County|
+|4|2|724268|1%|Brown County|
 |||||Calumet County|
 |||||Door County|
 |||||Florence County|
@@ -3391,7 +3391,7 @@ Prefer districts with smallest deviation in population from average.
 
 |District|Representatives|Pop. per rep.|Deviation %|Counties|
 | :--- | :--- | :--- | :--- | :--- |
-|1|1|0%|578759|Albany County|
+|1|1|578759|0%|Albany County|
 |||||Big Horn County|
 |||||Campbell County|
 |||||Carbon County|
