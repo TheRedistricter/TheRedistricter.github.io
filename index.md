@@ -20,6 +20,8 @@ Partition the graph of a State's adjacent counties into contiguous single and mu
 Prefer districts with fewer members.
 
 Prefer districts with smallest deviation in population from average.
+
+Multi-member districts would use either single transferrable vote or single non-transferable vote.
 # Code
 
 
