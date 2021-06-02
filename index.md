@@ -22,6 +22,8 @@ Prefer districts with fewer members.
 Prefer districts with smallest deviation in population from average.
 # Code
 
+
+https://github.com/TheRedistricter/countybasedmmds
 # Results
 
 ## AL
